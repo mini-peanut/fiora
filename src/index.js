@@ -6,7 +6,6 @@ main();
 
 function main () {
   judeVersion();
-  getArgv();
 }
 
 // 版本信息，帮助信息输出
@@ -16,6 +15,7 @@ function judeVersion () {
     argv[i] && (res = ARGV_MAP[i]());
   }
   !argv._.length && !res && LOG.tips();
+  argv._.length && getArgv();
 }
 
 // 获取参数
