@@ -1,3 +1,5 @@
+const request = require('request');
+
 function transform () {
   const url = 'https://openapi.youdao.com/api'
   return new Promise((resolve, reject) => {
