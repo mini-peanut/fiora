@@ -1,39 +1,50 @@
-import { ARGV_MAP, LOG, displayTranslationInfo } from './config.js';
-import { displayGithubTip } from "./tipWord";
-import { translate } from './api';
+import { displayGithubTip } from "./displayGithubTip";
+import { displayTranslation } from "./displayTranslation";
+import { tips, versionInfo, helpInfo, warnMorWordInfo } from './config.js';
+import { log } from 'console';
+
+import 'colors';
 
 const argv = process.argv.slice(2)
 
-module.exports = initFiora()
-
 function initFiora () {
-  judeVersion();
+  // 匹配基础命令
+  switch (argv[0]) {
+    case '-v':
+      log(versionInfo)
+      break;
+    case '-h':
+      log(helpInfo)
+      break;
+    default:
+      break;
+  }
+
+  // 错误校验
+  if (argv.length === 0 || /-/.test(argv[0])) {
+    return log(tips)
+  }
+
+  // 校验通过，打印推荐信息
+  return displaySuggestion()
 }
 
-// 版本信息，帮助信息输出
-function judeVersion () {
-  if (ARGV_MAP[argv[0]]) {
-    return ARGV_MAP[argv[0]]()
-  }
-  // 匹配下其他 '-' 的输入
-  const reg = /-/;
-  argv.length && !reg.test(argv[0]) ? getArg() : LOG.tips();
-}
 
 // 获取参数
-async function getArg () {
+async function displaySuggestion () {
   if (argv.length >= 2) {
-    return LOG.warnMoreWord()
+    log(warnMorWordInfo)
   }
 
   const inputWord = argv[0]
-  const {translation, web, basic: {explains}} = await translate(inputWord)
 
   // 展示翻译信息
-  displayTranslationInfo({web, explains})
+  await displayTranslation(inputWord)
 
   // 展示github 推荐命名
-  displayGithubTip(translation)
+  await displayGithubTip(inputWord)
 
   // 这里继续 查询代码操作
 }
+
+initFiora()
