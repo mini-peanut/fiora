@@ -1,0 +1,23 @@
+{
+  "name": "fiora",
+  "version": "1.0.0",
+  "description": "precise and elegant naming tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mini-peanut/fiora.git"
+  },
+  "keywords": [
+    "nameing",
+    "things"
+  ],
+  "author": "Frank Young && mini-peanut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mini-peanut/fiora/issues"
+  },
+  "homepage": "https://github.com/mini-peanut/fiora#readme"
+}
