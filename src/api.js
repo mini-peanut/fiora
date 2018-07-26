@@ -2,8 +2,10 @@ const axios = require('axios');
 const qs = require('qs');
 const md5 = require('md5');
 const request = require('request');
+const colors = require('colors');
+const { ERROR_MAP } = require('./errorMap.js');
 
-function transform (word) {
+function translate (word) {
   const url = 'http://openapi.youdao.com/api';
   return new Promise(resolve => {
     request({
@@ -14,30 +16,32 @@ function transform (word) {
           "content-type": "application/x-www-form-urlencoded",
         },
         body: qs.stringify(queryYoudao(word))
-      }, function(error, response, body) {
-          if (!error) {
-            console.log(response.body)
-            if (!response.body.errorCode) {
-              resolve(response.body)
-            }
+      }, (error, response, body) => {
+        const errorCode = response.body.errorCode
+        if (!error) {
+          if (!~~errorCode) {
+            resolve(response.body)
           } else {
-            reject(error)
+            console.log(`\n[Error]: ${ERROR_MAP[errorCode]}\n`.red)
           }
+        }
       });
   })
 }
 
+// 加密处理
 function queryYoudao(q) {
-  var salt = (new Date).getTime();
-  let appKey = '3ed7fe7bd5dc68b0';
-  let key = 'CV5SpGpKqVg0Lxj9PvK1KNDhzPFWFCtJ';
-  var str1 = appKey + q + salt + key;
-  var sign = md5(str1).toUpperCase();
-
+  const salt = (new Date).getTime();
+  const appKey = '3ed7fe7bd5dc68b0';
+  const key = 'CV5SpGpKqVg0Lxj9PvK1KNDhzPFWFCtJ';
+  const str1 = appKey + q + salt + key;
+  const sign = md5(str1).toUpperCase();
+  // zh_CHS
+  // EN
   const query = {
     q,
-    from: 'zh_CHS',
-    to: 'EN',
+    from: '',
+    to: '',
     appKey,
     salt,
     sign
@@ -46,5 +50,5 @@ function queryYoudao(q) {
 }
 
 module.exports = {
-  transform
+  translate
 }

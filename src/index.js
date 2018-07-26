@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-const { ARGV_MAP, LOG } = require('./config.js');
-const { transform } = require('./api.js');
+const { ARGV_MAP, LOG, displayTranslationInfo } = require('./config.js');
+const { translate } = require('./api.js');
 
 let argv = process.argv.slice(2)
 main();
@@ -15,14 +15,20 @@ function judeVersion () {
     ARGV_MAP[argv[0]]()
     return
   }
-  argv.length ? getArg() : LOG.tips();
+  // 匹配下其他 '-' 的输入
+  const reg = /-/;
+  argv.length && !reg.test(argv[0]) ? getArg() : LOG.tips();
 }
 
 // 获取参数
 async function getArg () {
-  (argv.length >= 2) && LOG.warnMoreWord();
+  if (argv.length >= 2) {
+    LOG.warnMoreWord()
+    return
+  };
   let word = argv[0];
-  const res = await transform(word)
-  console.log(res)
-  const translation = res.translation
+  const res = await translate(word)
+  // 展示翻译信息
+  const translation = displayTranslationInfo(res)
+  console.log(translation)
 }

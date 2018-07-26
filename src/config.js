@@ -31,13 +31,30 @@ const LOG = {
     `.blue);
   },
   warnMoreWord () {
-    console.log(`
-      警告：目前只支持单个词语查询！
-    `.yellow);
+    console.log('\n[Warning]: 目前只支持单个词语查询！\n'.yellow);
   }
+}
+
+// 显示翻译信息
+function displayTranslationInfo (data) {
+  // console.log(data)
+  const explains = data.basic.explains
+  const web = data.web
+
+  console.log('\n英汉翻译：\n'.blue)
+  for (let i = 0; i < explains.length; i++) {
+    console.log(explains[i].magenta)
+  }
+
+  console.log('\n网络释义：\n'.blue)
+  for (let i = 0; i < web.length; i++) {
+    console.log(web[i]['key'].magenta + ': '.magenta + web[i]['value'][0].magenta)
+  }
+  return data.translation[0]
 }
 
 module.exports = {
   ARGV_MAP,
-  LOG
+  LOG,
+  displayTranslationInfo
 }
