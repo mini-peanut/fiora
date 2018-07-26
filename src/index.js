@@ -1,7 +1,8 @@
 #!/usr/bin/env node
-const argv = require('yargs').argv;
 const { ARGV_MAP, LOG } = require('./config.js');
+const { transform } = require('./api.js');
 
+let argv = process.argv.slice(2)
 main();
 
 function main () {
@@ -10,17 +11,18 @@ function main () {
 
 // 版本信息，帮助信息输出
 function judeVersion () {
-  let res = false
-  for (let i in ARGV_MAP) {
-    argv[i] && (res = ARGV_MAP[i]());
+  if (ARGV_MAP[argv[0]]) {
+    ARGV_MAP[argv[0]]()
+    return
   }
-  !argv._.length && !res && LOG.tips();
-  argv._.length && getArgv();
+  argv.length ? getArg() : LOG.tips();
 }
 
 // 获取参数
-function getArgv () {
-  (argv._.length >= 2) && LOG.warnMoreWord();
-  let word = argv._[0];
-  console.log(word)
+async function getArg () {
+  (argv.length >= 2) && LOG.warnMoreWord();
+  let word = argv[0];
+  const res = await transform(word)
+  console.log(res)
+  const translation = res.translation
 }

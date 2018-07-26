@@ -2,13 +2,13 @@ const app = require('../package.json');
 const colors = require('colors');
 
 const ARGV_MAP = {
-  v () {
+  ['-v'] () {
     console.log(`
       当前版本 ${app.version}
     `.blue);
     return true;
   },
-  h () {
+  ['-h'] () {
     console.log(`
       fio <参数>
       例子如下：
