@@ -1,60 +1,44 @@
-const app = require('../package.json');
-const colors = require('colors');
+import app from '../package.json';
+import { log } from 'console'
+import 'colors';
 
-const ARGV_MAP = {
+const versionInfo = `当前版本 ${app.version}`;
+const helpInfo = `fio <参数> 如：fio 中国`;
+
+const tips = `
+  *************** fiora ***************
+
+  * a precise and elegant naming tools
+  
+  -v  查看版本信息
+  
+  -h  查看帮助信息`;
+const warnMorWordTip = '\n[Warning]: 目前只支持单个词语查询！\n';
+
+export const ARGV_MAP = {
   ['-v'] () {
-    console.log(`
-      当前版本 ${app.version}
-    `.blue);
-    return true;
+    return log(versionInfo.blue);
   },
   ['-h'] () {
-    console.log(`
-      fio <参数>
-      例子如下：
-      fio 中国
-    `.blue);
-    return true;
+    return log(helpInfo.blue);
   }
 }
 
-const LOG = {
+export const LOG = {
   tips () {
-    console.log(`
-      *************** fiora ***************
-
-      * 精准而优雅的命名工具
-
-      -v  查看版本信息
-
-      -h  查看帮助信息
-    `.blue);
+    log(tips.blue);
   },
   warnMoreWord () {
-    console.log('\n[Warning]: 目前只支持单个词语查询！\n'.yellow);
+    log(warnMorWordTip.yellow);
   }
 }
 
-// 显示翻译信息
-function displayTranslationInfo (data) {
-  // console.log(data)
-  const explains = data.basic.explains
-  const web = data.web
+// show infomation
+export function displayTranslationInfo ({explains, web}) {
 
-  console.log('\n英汉翻译：\n'.blue)
-  for (let i = 0; i < explains.length; i++) {
-    console.log(explains[i].magenta)
-  }
+  log('\n英汉翻译：\n'.blue)
+  explains.forEach( item => log(item.magenta))
 
-  console.log('\n网络释义：\n'.blue)
-  for (let i = 0; i < web.length; i++) {
-    console.log(web[i]['key'].magenta + ': '.magenta + web[i]['value'][0].magenta)
-  }
-  return data.translation[0]
-}
-
-module.exports = {
-  ARGV_MAP,
-  LOG,
-  displayTranslationInfo
+  log('\n网络释义：\n'.blue)
+  web.forEach( item => log(item['key'].magenta + ': '.magenta + item['value'][0].magenta))
 }

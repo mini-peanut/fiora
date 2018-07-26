@@ -38,7 +38,7 @@ function queryYoudao(q) {
   const sign = md5(str1).toUpperCase();
   // zh_CHS
   // EN
-  const query = {
+  return {
     q,
     from: '',
     to: '',
@@ -46,7 +46,6 @@ function queryYoudao(q) {
     salt,
     sign
   };
-  return query
 }
 
 module.exports = {

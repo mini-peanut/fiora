@@ -1,19 +1,19 @@
-#!/usr/bin/env node
-const { ARGV_MAP, LOG, displayTranslationInfo } = require('./config.js');
-const { translate } = require('./api.js');
+import { ARGV_MAP, LOG, displayTranslationInfo } from './config.js';
+import { displayGithubTip } from "./tipWord";
+import { translate } from './api';
 
-let argv = process.argv.slice(2)
-main();
+const argv = process.argv.slice(2)
 
-function main () {
+module.exports = initFiora()
+
+function initFiora () {
   judeVersion();
 }
 
 // 版本信息，帮助信息输出
 function judeVersion () {
   if (ARGV_MAP[argv[0]]) {
-    ARGV_MAP[argv[0]]()
-    return
+    return ARGV_MAP[argv[0]]()
   }
   // 匹配下其他 '-' 的输入
   const reg = /-/;
@@ -23,13 +23,17 @@ function judeVersion () {
 // 获取参数
 async function getArg () {
   if (argv.length >= 2) {
-    LOG.warnMoreWord()
-    return
-  };
-  let word = argv[0];
-  const res = await translate(word)
+    return LOG.warnMoreWord()
+  }
+
+  const inputWord = argv[0]
+  const {translation, web, basic: {explains}} = await translate(inputWord)
+
   // 展示翻译信息
-  const translation = displayTranslationInfo(res)
+  displayTranslationInfo({web, explains})
+
+  // 展示github 推荐命名
+  displayGithubTip(translation)
+
   // 这里继续 查询代码操作
-  console.log(translation)
 }

@@ -9,7 +9,7 @@ precise and elegant naming tools
 ## 使用
 * 在shell中使用 `fio 优雅`
 
-## 简介绍
+## 简介
 
 使用fiora会提供简洁的中英文翻译，在开发过程中，
 1. 能够更方便快捷的查询单词
