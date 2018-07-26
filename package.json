@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/mini-peanut/fiora/issues"
   },
-  "homepage": "https://github.com/mini-peanut/fiora#readme"
+  "homepage": "https://github.com/mini-peanut/fiora#readme",
+  "dependencies": {
+    "colors": "^1.3.1",
+    "yargs": "^12.0.1"
+  },
+  "bin": {
+    "fio": "src/index.js"
+  }
 }
