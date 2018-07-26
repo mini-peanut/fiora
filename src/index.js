@@ -30,5 +30,6 @@ async function getArg () {
   const res = await translate(word)
   // 展示翻译信息
   const translation = displayTranslationInfo(res)
+  // 这里继续 查询代码操作
   console.log(translation)
 }
