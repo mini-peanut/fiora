@@ -36,9 +36,11 @@ export const LOG = {
 // show infomation
 export function displayTranslationInfo ({explains, web}) {
 
-  log('\n英汉翻译：\n'.blue)
+  log('\n英汉翻译：'.blue)
   explains.forEach( item => log(item.magenta))
 
-  log('\n网络释义：\n'.blue)
+  log('\n网络释义：'.blue)
   web.forEach( item => log(item['key'].magenta + ': '.magenta + item['value'][0].magenta))
+
+  log('\n')
 }
