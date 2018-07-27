@@ -9,13 +9,12 @@ import "colors"
 const key = 'CV5SpGpKqVg0Lxj9PvK1KNDhzPFWFCtJ';
 const appKey = '3ed7fe7bd5dc68b0';
 
-
 export async function displayTranslation (inputWord) {
-  const {basic: { explains }, web} = await translate(inputWord)
-  const explainsFromDic = explains.map( item => item.magenta).join(' ')
-  const explainsFromWeb = web.map( item => item['value'][0].magenta).join( ' || ')
+  const { basic, web, translation} = await translate(inputWord)
+  const explainsFromDic = basic ? basic.explains.map( item => item.magenta).join(' ') : translation.join('').magenta
+  const explainsFromWeb = web ? web.map( item => item['value'][0].magenta).join( ' || ') : '暂无'.yellow
 
-  log(`英汉翻译：${explainsFromDic}`)
+  log(`\n英汉翻译：${explainsFromDic}`)
   log(`网络释义：${explainsFromWeb}`)
 }
 

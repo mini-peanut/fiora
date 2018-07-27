@@ -1,6 +1,6 @@
 import { displayGithubTip } from "./displayGithubTip";
 import { displayTranslation } from "./displayTranslation";
-import { tips, versionInfo, helpInfo, warnMorWordInfo } from './config.js';
+import { tips, versionInfo, helpInfo, warnMoreWordInfo } from './config.js';
 import { log } from 'console';
 
 import 'colors';
@@ -33,7 +33,7 @@ function initFiora () {
 // 获取参数
 async function displaySuggestion () {
   if (argv.length >= 2) {
-    log(warnMorWordInfo)
+    log(warnMoreWordInfo)
   }
 
   const inputWord = argv[0]

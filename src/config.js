@@ -17,12 +17,12 @@ export const tips = `
   *************** fiora ***************
 
   * a precise and elegant naming tools
-  
+
   -v  查看版本信息
-  
+
   -h  查看帮助信息`;
 
-export const warnMorWordInfo = '\n[Warning]: 目前只支持单个词语查询！\n';
+export const warnMoreWordInfo = '\n[Warning]: 目前只支持单个词语查询！\n';
 
 
 export const ERROR_MAP = {
