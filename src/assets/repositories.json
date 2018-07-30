@@ -1,0 +1,3942 @@
+{
+  "2048": {
+    "url": "https://api.github.com/repos/gabrielecirulli/2048",
+    "stargazers_count": 9679
+  },
+  "freeCodeCamp": {
+    "url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp",
+    "stargazers_count": 293228
+  },
+  "bootstrap": {
+    "url": "https://api.github.com/repos/angular-ui/bootstrap",
+    "stargazers_count": 14679
+  },
+  "vue": {
+    "url": "https://api.github.com/repos/vuejs/vue",
+    "stargazers_count": 109118
+  },
+  "free-programming-books": {
+    "url": "https://api.github.com/repos/EbookFoundation/free-programming-books",
+    "stargazers_count": 108846
+  },
+  "react": {
+    "url": "https://api.github.com/repos/facebook/react",
+    "stargazers_count": 107528
+  },
+  "tensorflow": {
+    "url": "https://api.github.com/repos/tensorflow/tensorflow",
+    "stargazers_count": 106246
+  },
+  "awesome": {
+    "url": "https://api.github.com/repos/sindresorhus/awesome",
+    "stargazers_count": 89730
+  },
+  "You-Dont-Know-JS": {
+    "url": "https://api.github.com/repos/getify/You-Dont-Know-JS",
+    "stargazers_count": 85574
+  },
+  "d3": {
+    "url": "https://api.github.com/repos/d3/d3",
+    "stargazers_count": 77632
+  },
+  "javascript": {
+    "url": "https://api.github.com/repos/airbnb/javascript",
+    "stargazers_count": 74065
+  },
+  "oh-my-zsh": {
+    "url": "https://api.github.com/repos/robbyrussell/oh-my-zsh",
+    "stargazers_count": 73942
+  },
+  "gitignore": {
+    "url": "https://api.github.com/repos/github/gitignore",
+    "stargazers_count": 70554
+  },
+  "react-native": {
+    "url": "https://api.github.com/repos/facebook/react-native",
+    "stargazers_count": 66914
+  },
+  "coding-interview-university": {
+    "url": "https://api.github.com/repos/jwasham/coding-interview-university",
+    "stargazers_count": 66714
+  },
+  "electron": {
+    "url": "https://api.github.com/repos/electron/electron",
+    "stargazers_count": 62889
+  },
+  "linux": {
+    "url": "https://api.github.com/repos/torvalds/linux",
+    "stargazers_count": 61239
+  },
+  "angular.js": {
+    "url": "https://api.github.com/repos/angular/angular.js",
+    "stargazers_count": 58856
+  },
+  "Font-Awesome": {
+    "url": "https://api.github.com/repos/FortAwesome/Font-Awesome",
+    "stargazers_count": 57042
+  },
+  "vscode": {
+    "url": "https://api.github.com/repos/Microsoft/vscode",
+    "stargazers_count": 55953
+  },
+  "developer-roadmap": {
+    "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap",
+    "stargazers_count": 53961
+  },
+  "awesome-python": {
+    "url": "https://api.github.com/repos/vinta/awesome-python",
+    "stargazers_count": 53147
+  },
+  "animate.css": {
+    "url": "https://api.github.com/repos/daneden/animate.css",
+    "stargazers_count": 53108
+  },
+  "create-react-app": {
+    "url": "https://api.github.com/repos/facebook/create-react-app",
+    "stargazers_count": 52998
+  },
+  "node": {
+    "url": "https://api.github.com/repos/nodejs/node",
+    "stargazers_count": 51805
+  },
+  "moby": {
+    "url": "https://api.github.com/repos/moby/moby",
+    "stargazers_count": 49730
+  },
+  "jquery": {
+    "url": "https://api.github.com/repos/jquery/jquery",
+    "stargazers_count": 49577
+  },
+  "atom": {
+    "url": "https://api.github.com/repos/atom/atom",
+    "stargazers_count": 45804
+  },
+  "axios": {
+    "url": "https://api.github.com/repos/axios/axios",
+    "stargazers_count": 45708
+  },
+  "go": {
+    "url": "https://api.github.com/repos/datasciencemasters/go",
+    "stargazers_count": 9475
+  },
+  "swift": {
+    "url": "https://api.github.com/repos/apple/swift",
+    "stargazers_count": 44679
+  },
+  "laravel": {
+    "url": "https://api.github.com/repos/laravel/laravel",
+    "stargazers_count": 44613
+  },
+  "three.js": {
+    "url": "https://api.github.com/repos/mrdoob/three.js",
+    "stargazers_count": 43625
+  },
+  "socket.io": {
+    "url": "https://api.github.com/repos/socketio/socket.io",
+    "stargazers_count": 42987
+  },
+  "redux": {
+    "url": "https://api.github.com/repos/reduxjs/redux",
+    "stargazers_count": 42934
+  },
+  "webpack": {
+    "url": "https://api.github.com/repos/webpack/webpack",
+    "stargazers_count": 42790
+  },
+  "Semantic-UI": {
+    "url": "https://api.github.com/repos/Semantic-Org/Semantic-UI",
+    "stargazers_count": 42270
+  },
+  "reveal.js": {
+    "url": "https://api.github.com/repos/hakimel/reveal.js",
+    "stargazers_count": 41602
+  },
+  "html5-boilerplate": {
+    "url": "https://api.github.com/repos/h5bp/html5-boilerplate",
+    "stargazers_count": 41037
+  },
+  "public-apis": {
+    "url": "https://api.github.com/repos/toddmotto/public-apis",
+    "stargazers_count": 40570
+  },
+  "rails": {
+    "url": "https://api.github.com/repos/rails/rails",
+    "stargazers_count": 40346
+  },
+  "youtube-dl": {
+    "url": "https://api.github.com/repos/rg3/youtube-dl",
+    "stargazers_count": 40149
+  },
+  "meteor": {
+    "url": "https://api.github.com/repos/meteor/meteor",
+    "stargazers_count": 40095
+  },
+  "express": {
+    "url": "https://api.github.com/repos/expressjs/express",
+    "stargazers_count": 39444
+  },
+  "kubernetes": {
+    "url": "https://api.github.com/repos/kubernetes/kubernetes",
+    "stargazers_count": 39359
+  },
+  "models": {
+    "url": "https://api.github.com/repos/tensorflow/models",
+    "stargazers_count": 39150
+  },
+  "angular": {
+    "url": "https://api.github.com/repos/angular/angular",
+    "stargazers_count": 39001
+  },
+  "material-ui": {
+    "url": "https://api.github.com/repos/mui-org/material-ui",
+    "stargazers_count": 38958
+  },
+  "Chart.js": {
+    "url": "https://api.github.com/repos/chartjs/Chart.js",
+    "stargazers_count": 38504
+  },
+  "system-design-primer": {
+    "url": "https://api.github.com/repos/donnemartin/system-design-primer",
+    "stargazers_count": 38110
+  },
+  "moment": {
+    "url": "https://api.github.com/repos/moment/moment",
+    "stargazers_count": 38056
+  },
+  "flask": {
+    "url": "https://api.github.com/repos/pallets/flask",
+    "stargazers_count": 37677
+  },
+  "TypeScript": {
+    "url": "https://api.github.com/repos/Microsoft/TypeScript",
+    "stargazers_count": 37206
+  },
+  "resume.github.com": {
+    "url": "https://api.github.com/repos/resume/resume.github.com",
+    "stargazers_count": 37116
+  },
+  "java-design-patterns": {
+    "url": "https://api.github.com/repos/iluwatar/java-design-patterns",
+    "stargazers_count": 36576
+  },
+  "lantern": {
+    "url": "https://api.github.com/repos/getlantern/lantern",
+    "stargazers_count": 36509
+  },
+  "thefuck": {
+    "url": "https://api.github.com/repos/nvbn/thefuck",
+    "stargazers_count": 36458
+  },
+  "free-programming-books-zh_CN": {
+    "url": "https://api.github.com/repos/justjavac/free-programming-books-zh_CN",
+    "stargazers_count": 36430
+  },
+  "build-your-own-x": {
+    "url": "https://api.github.com/repos/danistefanovic/build-your-own-x",
+    "stargazers_count": 36381
+  },
+  "httpie": {
+    "url": "https://api.github.com/repos/jakubroztocil/httpie",
+    "stargazers_count": 36239
+  },
+  "Front-end-Developer-Interview-Questions": {
+    "url": "https://api.github.com/repos/h5bp/Front-end-Developer-Interview-Questions",
+    "stargazers_count": 36152
+  },
+  "the-art-of-command-line": {
+    "url": "https://api.github.com/repos/jlevy/the-art-of-command-line",
+    "stargazers_count": 36024
+  },
+  "node-v0.x-archive": {
+    "url": "https://api.github.com/repos/nodejs/node-v0.x-archive",
+    "stargazers_count": 35785
+  },
+  "awesome-vue": {
+    "url": "https://api.github.com/repos/vuejs/awesome-vue",
+    "stargazers_count": 35657
+  },
+  "puppeteer": {
+    "url": "https://api.github.com/repos/GoogleChrome/puppeteer",
+    "stargazers_count": 35641
+  },
+  "material-design-icons": {
+    "url": "https://api.github.com/repos/google/material-design-icons",
+    "stargazers_count": 35515
+  },
+  "django": {
+    "url": "https://api.github.com/repos/django/django",
+    "stargazers_count": 35374
+  },
+  "jekyll": {
+    "url": "https://api.github.com/repos/jekyll/jekyll",
+    "stargazers_count": 34973
+  },
+  "ionic": {
+    "url": "https://api.github.com/repos/ionic-team/ionic",
+    "stargazers_count": 34827
+  },
+  "RxJava": {
+    "url": "https://api.github.com/repos/ReactiveX/RxJava",
+    "stargazers_count": 34524
+  },
+  "awesome-machine-learning": {
+    "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning",
+    "stargazers_count": 34407
+  },
+  "every-programmer-should-know": {
+    "url": "https://api.github.com/repos/mtdvio/every-programmer-should-know",
+    "stargazers_count": 34379
+  },
+  "nw.js": {
+    "url": "https://api.github.com/repos/nwjs/nw.js",
+    "stargazers_count": 34087
+  },
+  "requests": {
+    "url": "https://api.github.com/repos/requests/requests",
+    "stargazers_count": 33785
+  },
+  "impress.js": {
+    "url": "https://api.github.com/repos/impress/impress.js",
+    "stargazers_count": 33776
+  },
+  "flutter": {
+    "url": "https://api.github.com/repos/flutter/flutter",
+    "stargazers_count": 33747
+  },
+  "lodash": {
+    "url": "https://api.github.com/repos/lodash/lodash",
+    "stargazers_count": 33644
+  },
+  "computer-science": {
+    "url": "https://api.github.com/repos/ossu/computer-science",
+    "stargazers_count": 33629
+  },
+  "bitcoin": {
+    "url": "https://api.github.com/repos/bitcoin/bitcoin",
+    "stargazers_count": 33588
+  },
+  "awesome-go": {
+    "url": "https://api.github.com/repos/avelino/awesome-go",
+    "stargazers_count": 33567
+  },
+  "json-server": {
+    "url": "https://api.github.com/repos/typicode/json-server",
+    "stargazers_count": 33555
+  },
+  "materialize": {
+    "url": "https://api.github.com/repos/Dogfalo/materialize",
+    "stargazers_count": 33522
+  },
+  "x64dbg": {
+    "url": "https://api.github.com/repos/x64dbg/x64dbg",
+    "stargazers_count": 33219
+  },
+  "elasticsearch": {
+    "url": "https://api.github.com/repos/elastic/elasticsearch",
+    "stargazers_count": 33011
+  },
+  "yarn": {
+    "url": "https://api.github.com/repos/yarnpkg/yarn",
+    "stargazers_count": 32529
+  },
+  "keras": {
+    "url": "https://api.github.com/repos/keras-team/keras",
+    "stargazers_count": 32032
+  },
+  "normalize.css": {
+    "url": "https://api.github.com/repos/necolas/normalize.css",
+    "stargazers_count": 31835
+  },
+  "react-router": {
+    "url": "https://api.github.com/repos/ReactTraining/react-router",
+    "stargazers_count": 31707
+  },
+  "hacker-scripts": {
+    "url": "https://api.github.com/repos/NARKOZ/hacker-scripts",
+    "stargazers_count": 31694
+  },
+  "ansible": {
+    "url": "https://api.github.com/repos/ansible/ansible",
+    "stargazers_count": 31658
+  },
+  "ant-design": {
+    "url": "https://api.github.com/repos/ant-design/ant-design",
+    "stargazers_count": 31463
+  },
+  "AFNetworking": {
+    "url": "https://api.github.com/repos/AFNetworking/AFNetworking",
+    "stargazers_count": 31362
+  },
+  "awesome-android-ui": {
+    "url": "https://api.github.com/repos/wasabeef/awesome-android-ui",
+    "stargazers_count": 31220
+  },
+  "papers-we-love": {
+    "url": "https://api.github.com/repos/papers-we-love/papers-we-love",
+    "stargazers_count": 31040
+  },
+  "netdata": {
+    "url": "https://api.github.com/repos/firehol/netdata",
+    "stargazers_count": 30793
+  },
+  "markdown-here": {
+    "url": "https://api.github.com/repos/adam-p/markdown-here",
+    "stargazers_count": 30756
+  },
+  "material-design-lite": {
+    "url": "https://api.github.com/repos/google/material-design-lite",
+    "stargazers_count": 30444
+  },
+  "redis": {
+    "url": "https://api.github.com/repos/antirez/redis",
+    "stargazers_count": 30402
+  },
+  "javascript-algorithms": {
+    "url": "https://api.github.com/repos/trekhleb/javascript-algorithms",
+    "stargazers_count": 30306
+  },
+  "gulp": {
+    "url": "https://api.github.com/repos/gulpjs/gulp",
+    "stargazers_count": 29979
+  },
+  "Interview-Notebook": {
+    "url": "https://api.github.com/repos/CyC2018/Interview-Notebook",
+    "stargazers_count": 29934
+  },
+  "rust": {
+    "url": "https://api.github.com/repos/rust-lang/rust",
+    "stargazers_count": 29679
+  },
+  "scikit-learn": {
+    "url": "https://api.github.com/repos/scikit-learn/scikit-learn",
+    "stargazers_count": 29591
+  },
+  "element": {
+    "url": "https://api.github.com/repos/ElemeFE/element",
+    "stargazers_count": 29275
+  },
+  "Front-End-Checklist": {
+    "url": "https://api.github.com/repos/thedaviddias/Front-End-Checklist",
+    "stargazers_count": 29142
+  },
+  "incubator-echarts": {
+    "url": "https://api.github.com/repos/apache/incubator-echarts",
+    "stargazers_count": 29138
+  },
+  "brackets": {
+    "url": "https://api.github.com/repos/adobe/brackets",
+    "stargazers_count": 29116
+  },
+  "jQuery-File-Upload": {
+    "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload",
+    "stargazers_count": 29025
+  },
+  "retrofit": {
+    "url": "https://api.github.com/repos/square/retrofit",
+    "stargazers_count": 28922
+  },
+  "babel": {
+    "url": "https://api.github.com/repos/babel/babel",
+    "stargazers_count": 28698
+  },
+  "bulma": {
+    "url": "https://api.github.com/repos/jgthms/bulma",
+    "stargazers_count": 28625
+  },
+  "android-architecture": {
+    "url": "https://api.github.com/repos/googlesamples/android-architecture",
+    "stargazers_count": 28570
+  },
+  "Alamofire": {
+    "url": "https://api.github.com/repos/Alamofire/Alamofire",
+    "stargazers_count": 28570
+  },
+  "nvm": {
+    "url": "https://api.github.com/repos/creationix/nvm",
+    "stargazers_count": 28518
+  },
+  "scrapy": {
+    "url": "https://api.github.com/repos/scrapy/scrapy",
+    "stargazers_count": 28419
+  },
+  "legacy-homebrew": {
+    "url": "https://api.github.com/repos/Homebrew/legacy-homebrew",
+    "stargazers_count": 28400
+  },
+  "protobuf": {
+    "url": "https://api.github.com/repos/google/protobuf",
+    "stargazers_count": 28004
+  },
+  "neovim": {
+    "url": "https://api.github.com/repos/neovim/neovim",
+    "stargazers_count": 27921
+  },
+  "okhttp": {
+    "url": "https://api.github.com/repos/square/okhttp",
+    "stargazers_count": 27884
+  },
+  "freecodecamp.cn": {
+    "url": "https://api.github.com/repos/FreeCodeCampChina/freecodecamp.cn",
+    "stargazers_count": 27652
+  },
+  "next.js": {
+    "url": "https://api.github.com/repos/zeit/next.js",
+    "stargazers_count": 27616
+  },
+  "Apollo-11": {
+    "url": "https://api.github.com/repos/chrislgarry/Apollo-11",
+    "stargazers_count": 27585
+  },
+  "hugo": {
+    "url": "https://api.github.com/repos/gohugoio/hugo",
+    "stargazers_count": 27543
+  },
+  "foundation-sites": {
+    "url": "https://api.github.com/repos/zurb/foundation-sites",
+    "stargazers_count": 27514
+  },
+  "backbone": {
+    "url": "https://api.github.com/repos/jashkenas/backbone",
+    "stargazers_count": 27241
+  },
+  "spring-boot": {
+    "url": "https://api.github.com/repos/spring-projects/spring-boot",
+    "stargazers_count": 27201
+  },
+  "android-open-project": {
+    "url": "https://api.github.com/repos/Trinea/android-open-project",
+    "stargazers_count": 27106
+  },
+  "awesome-public-datasets": {
+    "url": "https://api.github.com/repos/awesomedata/awesome-public-datasets",
+    "stargazers_count": 26978
+  },
+  "awesome-react": {
+    "url": "https://api.github.com/repos/enaqx/awesome-react",
+    "stargazers_count": 26845
+  },
+  "awesome-ios": {
+    "url": "https://api.github.com/repos/vsouza/awesome-ios",
+    "stargazers_count": 26812
+  },
+  "opencv": {
+    "url": "https://api.github.com/repos/opencv/opencv",
+    "stargazers_count": 26523
+  },
+  "storybook": {
+    "url": "https://api.github.com/repos/storybooks/storybook",
+    "stargazers_count": 26487
+  },
+  "Ghost": {
+    "url": "https://api.github.com/repos/TryGhost/Ghost",
+    "stargazers_count": 26354
+  },
+  "gogs": {
+    "url": "https://api.github.com/repos/gogs/gogs",
+    "stargazers_count": 26353
+  },
+  "prettier": {
+    "url": "https://api.github.com/repos/prettier/prettier",
+    "stargazers_count": 26353
+  },
+  "shadowsocks": {
+    "url": "https://api.github.com/repos/shadowsocks/shadowsocks",
+    "stargazers_count": 25976
+  },
+  "phantomjs": {
+    "url": "https://api.github.com/repos/ariya/phantomjs",
+    "stargazers_count": 25816
+  },
+  "guava": {
+    "url": "https://api.github.com/repos/google/guava",
+    "stargazers_count": 25726
+  },
+  "discourse": {
+    "url": "https://api.github.com/repos/discourse/discourse",
+    "stargazers_count": 25651
+  },
+  "pm2": {
+    "url": "https://api.github.com/repos/Unitech/pm2",
+    "stargazers_count": 25645
+  },
+  "FiraCode": {
+    "url": "https://api.github.com/repos/tonsky/FiraCode",
+    "stargazers_count": 25583
+  },
+  "github-cheat-sheet": {
+    "url": "https://api.github.com/repos/tiimgreen/github-cheat-sheet",
+    "stargazers_count": 25490
+  },
+  "parcel": {
+    "url": "https://api.github.com/repos/parcel-bundler/parcel",
+    "stargazers_count": 25285
+  },
+  "shadowsocks-windows": {
+    "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows",
+    "stargazers_count": 25228
+  },
+  "awesome-nodejs": {
+    "url": "https://api.github.com/repos/sindresorhus/awesome-nodejs",
+    "stargazers_count": 25180
+  },
+  "awesome-courses": {
+    "url": "https://api.github.com/repos/prakhar1989/awesome-courses",
+    "stargazers_count": 25113
+  },
+  "Awesome-Hacking": {
+    "url": "https://api.github.com/repos/Hack-with-Github/Awesome-Hacking",
+    "stargazers_count": 25064
+  },
+  "caffe": {
+    "url": "https://api.github.com/repos/BVLC/caffe",
+    "stargazers_count": 25015
+  },
+  "awesome-selfhosted": {
+    "url": "https://api.github.com/repos/Kickball/awesome-selfhosted",
+    "stargazers_count": 24881
+  },
+  "serverless": {
+    "url": "https://api.github.com/repos/serverless/serverless",
+    "stargazers_count": 24830
+  },
+  "hyper": {
+    "url": "https://api.github.com/repos/zeit/hyper",
+    "stargazers_count": 24782
+  },
+  "es6features": {
+    "url": "https://api.github.com/repos/lukehoban/es6features",
+    "stargazers_count": 24607
+  },
+  "frontend-dev-bookmarks": {
+    "url": "https://api.github.com/repos/dypsilon/frontend-dev-bookmarks",
+    "stargazers_count": 24556
+  },
+  "interviews": {
+    "url": "https://api.github.com/repos/kdn251/interviews",
+    "stargazers_count": 24555
+  },
+  "immutable-js": {
+    "url": "https://api.github.com/repos/facebook/immutable-js",
+    "stargazers_count": 24543
+  },
+  "async": {
+    "url": "https://api.github.com/repos/caolan/async",
+    "stargazers_count": 24387
+  },
+  "AdminLTE": {
+    "url": "https://api.github.com/repos/almasaeed2010/AdminLTE",
+    "stargazers_count": 24237
+  },
+  "fullPage.js": {
+    "url": "https://api.github.com/repos/alvarotrigo/fullPage.js",
+    "stargazers_count": 24226
+  },
+  "hackathon-starter": {
+    "url": "https://api.github.com/repos/sahat/hackathon-starter",
+    "stargazers_count": 24192
+  },
+  "build-web-application-with-golang": {
+    "url": "https://api.github.com/repos/astaxie/build-web-application-with-golang",
+    "stargazers_count": 24189
+  },
+  "todomvc": {
+    "url": "https://api.github.com/repos/tastejs/todomvc",
+    "stargazers_count": 24124
+  },
+  "nylas-mail": {
+    "url": "https://api.github.com/repos/nylas/nylas-mail",
+    "stargazers_count": 24091
+  },
+  "Projects": {
+    "url": "https://api.github.com/repos/karan/Projects",
+    "stargazers_count": 24045
+  },
+  "HEAD": {
+    "url": "https://api.github.com/repos/joshbuchea/HEAD",
+    "stargazers_count": 24035
+  },
+  "slate": {
+    "url": "https://api.github.com/repos/lord/slate",
+    "stargazers_count": 24013
+  },
+  "big-list-of-naughty-strings": {
+    "url": "https://api.github.com/repos/minimaxir/big-list-of-naughty-strings",
+    "stargazers_count": 24005
+  },
+  "angular-styleguide": {
+    "url": "https://api.github.com/repos/johnpapa/angular-styleguide",
+    "stargazers_count": 23993
+  },
+  "XX-Net": {
+    "url": "https://api.github.com/repos/XX-net/XX-Net",
+    "stargazers_count": 23968
+  },
+  "gatsby": {
+    "url": "https://api.github.com/repos/gatsbyjs/gatsby",
+    "stargazers_count": 23958
+  },
+  "TensorFlow-Examples": {
+    "url": "https://api.github.com/repos/aymericdamien/TensorFlow-Examples",
+    "stargazers_count": 23868
+  },
+  "deno": {
+    "url": "https://api.github.com/repos/ry/deno",
+    "stargazers_count": 23631
+  },
+  "kotlin": {
+    "url": "https://api.github.com/repos/JetBrains/kotlin",
+    "stargazers_count": 23477
+  },
+  "git": {
+    "url": "https://api.github.com/repos/git/git",
+    "stargazers_count": 23477
+  },
+  "underscore": {
+    "url": "https://api.github.com/repos/jashkenas/underscore",
+    "stargazers_count": 23442
+  },
+  "MPAndroidChart": {
+    "url": "https://api.github.com/repos/PhilJay/MPAndroidChart",
+    "stargazers_count": 23416
+  },
+  "android_guides": {
+    "url": "https://api.github.com/repos/codepath/android_guides",
+    "stargazers_count": 23356
+  },
+  "clipboard.js": {
+    "url": "https://api.github.com/repos/zenorocha/clipboard.js",
+    "stargazers_count": 23083
+  },
+  "grafana": {
+    "url": "https://api.github.com/repos/grafana/grafana",
+    "stargazers_count": 22995
+  },
+  "hexo": {
+    "url": "https://api.github.com/repos/hexojs/hexo",
+    "stargazers_count": 22989
+  },
+  "pdf.js": {
+    "url": "https://api.github.com/repos/mozilla/pdf.js",
+    "stargazers_count": 22876
+  },
+  "Modernizr": {
+    "url": "https://api.github.com/repos/Modernizr/Modernizr",
+    "stargazers_count": 22795
+  },
+  "certbot": {
+    "url": "https://api.github.com/repos/certbot/certbot",
+    "stargazers_count": 22764
+  },
+  "architect-awesome": {
+    "url": "https://api.github.com/repos/xingshaocheng/architect-awesome",
+    "stargazers_count": 22733
+  },
+  "nocode": {
+    "url": "https://api.github.com/repos/kelseyhightower/nocode",
+    "stargazers_count": 22668
+  },
+  "glide": {
+    "url": "https://api.github.com/repos/bumptech/glide",
+    "stargazers_count": 22656
+  },
+  "select2": {
+    "url": "https://api.github.com/repos/select2/select2",
+    "stargazers_count": 22628
+  },
+  "spring-framework": {
+    "url": "https://api.github.com/repos/spring-projects/spring-framework",
+    "stargazers_count": 22591
+  },
+  "fastlane": {
+    "url": "https://api.github.com/repos/fastlane/fastlane",
+    "stargazers_count": 22586
+  },
+  "koa": {
+    "url": "https://api.github.com/repos/koajs/koa",
+    "stargazers_count": 22356
+  },
+  "Leaflet": {
+    "url": "https://api.github.com/repos/Leaflet/Leaflet",
+    "stargazers_count": 22287
+  },
+  "Best-websites-a-programmer-should-visit": {
+    "url": "https://api.github.com/repos/sdmg15/Best-websites-a-programmer-should-visit",
+    "stargazers_count": 22277
+  },
+  "anime": {
+    "url": "https://api.github.com/repos/juliangarnier/anime",
+    "stargazers_count": 22244
+  },
+  "phaser": {
+    "url": "https://api.github.com/repos/photonstorm/phaser",
+    "stargazers_count": 22177
+  },
+  "slick": {
+    "url": "https://api.github.com/repos/kenwheeler/slick",
+    "stargazers_count": 22144
+  },
+  "tech-interview-handbook": {
+    "url": "https://api.github.com/repos/yangshun/tech-interview-handbook",
+    "stargazers_count": 22066
+  },
+  "video.js": {
+    "url": "https://api.github.com/repos/videojs/video.js",
+    "stargazers_count": 22028
+  },
+  "awesome-awesomeness": {
+    "url": "https://api.github.com/repos/bayandin/awesome-awesomeness",
+    "stargazers_count": 21845
+  },
+  "lottie-android": {
+    "url": "https://api.github.com/repos/airbnb/lottie-android",
+    "stargazers_count": 21764
+  },
+  "chosen": {
+    "url": "https://api.github.com/repos/harvesthq/chosen",
+    "stargazers_count": 21742
+  },
+  "design-patterns-for-humans": {
+    "url": "https://api.github.com/repos/kamranahmedse/design-patterns-for-humans",
+    "stargazers_count": 21683
+  },
+  "butterknife": {
+    "url": "https://api.github.com/repos/JakeWharton/butterknife",
+    "stargazers_count": 21669
+  },
+  "rethinkdb": {
+    "url": "https://api.github.com/repos/rethinkdb/rethinkdb",
+    "stargazers_count": 21607
+  },
+  "what-happens-when": {
+    "url": "https://api.github.com/repos/alex/what-happens-when",
+    "stargazers_count": 21430
+  },
+  "syncthing": {
+    "url": "https://api.github.com/repos/syncthing/syncthing",
+    "stargazers_count": 21385
+  },
+  "30-seconds-of-code": {
+    "url": "https://api.github.com/repos/Chalarangelo/30-seconds-of-code",
+    "stargazers_count": 21179
+  },
+  "gitlabhq": {
+    "url": "https://api.github.com/repos/gitlabhq/gitlabhq",
+    "stargazers_count": 21056
+  },
+  "vue2-elm": {
+    "url": "https://api.github.com/repos/bailicangdu/vue2-elm",
+    "stargazers_count": 20937
+  },
+  "awesome-react-native": {
+    "url": "https://api.github.com/repos/jondot/awesome-react-native",
+    "stargazers_count": 20593
+  },
+  "incubator-dubbo": {
+    "url": "https://api.github.com/repos/apache/incubator-dubbo",
+    "stargazers_count": 20496
+  },
+  "gitflow": {
+    "url": "https://api.github.com/repos/nvie/gitflow",
+    "stargazers_count": 20428
+  },
+  "SDWebImage": {
+    "url": "https://api.github.com/repos/rs/SDWebImage",
+    "stargazers_count": 20241
+  },
+  "request": {
+    "url": "https://api.github.com/repos/request/request",
+    "stargazers_count": 20220
+  },
+  "og-aws": {
+    "url": "https://api.github.com/repos/open-guides/og-aws",
+    "stargazers_count": 20172
+  },
+  "leakcanary": {
+    "url": "https://api.github.com/repos/square/leakcanary",
+    "stargazers_count": 20118
+  },
+  "incubator-superset": {
+    "url": "https://api.github.com/repos/apache/incubator-superset",
+    "stargazers_count": 20105
+  },
+  "git-flight-rules": {
+    "url": "https://api.github.com/repos/k88hudson/git-flight-rules",
+    "stargazers_count": 20097
+  },
+  "tesseract": {
+    "url": "https://api.github.com/repos/tesseract-ocr/tesseract",
+    "stargazers_count": 20027
+  },
+  "awesome-mac": {
+    "url": "https://api.github.com/repos/jaywcjlove/awesome-mac",
+    "stargazers_count": 20016
+  },
+  "polymer": {
+    "url": "https://api.github.com/repos/Polymer/polymer",
+    "stargazers_count": 19966
+  },
+  "ijkplayer": {
+    "url": "https://api.github.com/repos/Bilibili/ijkplayer",
+    "stargazers_count": 19928
+  },
+  "awesome-interview-questions": {
+    "url": "https://api.github.com/repos/MaximAbramchuck/awesome-interview-questions",
+    "stargazers_count": 19788
+  },
+  "fetch": {
+    "url": "https://api.github.com/repos/github/fetch",
+    "stargazers_count": 19734
+  },
+  "you-get": {
+    "url": "https://api.github.com/repos/soimort/you-get",
+    "stargazers_count": 19617
+  },
+  "go-ethereum": {
+    "url": "https://api.github.com/repos/ethereum/go-ethereum",
+    "stargazers_count": 19610
+  },
+  "pixi.js": {
+    "url": "https://api.github.com/repos/pixijs/pixi.js",
+    "stargazers_count": 19583
+  },
+  "dotfiles": {
+    "url": "https://api.github.com/repos/mathiasbynens/dotfiles",
+    "stargazers_count": 19579
+  },
+  "Hover": {
+    "url": "https://api.github.com/repos/IanLunn/Hover",
+    "stargazers_count": 19577
+  },
+  "weui": {
+    "url": "https://api.github.com/repos/Tencent/weui",
+    "stargazers_count": 19539
+  },
+  "preact": {
+    "url": "https://api.github.com/repos/developit/preact",
+    "stargazers_count": 19539
+  },
+  "awesome-macos-command-line": {
+    "url": "https://api.github.com/repos/herrbischoff/awesome-macos-command-line",
+    "stargazers_count": 19491
+  },
+  "etcd": {
+    "url": "https://api.github.com/repos/coreos/etcd",
+    "stargazers_count": 19470
+  },
+  "bootstrap-material-design": {
+    "url": "https://api.github.com/repos/FezVrasta/bootstrap-material-design",
+    "stargazers_count": 19427
+  },
+  "zxing": {
+    "url": "https://api.github.com/repos/zxing/zxing",
+    "stargazers_count": 19423
+  },
+  "sails": {
+    "url": "https://api.github.com/repos/balderdashy/sails",
+    "stargazers_count": 19385
+  },
+  "500lines": {
+    "url": "https://api.github.com/repos/aosabook/500lines",
+    "stargazers_count": 19372
+  },
+  "huginn": {
+    "url": "https://api.github.com/repos/huginn/huginn",
+    "stargazers_count": 19362
+  },
+  "jest": {
+    "url": "https://api.github.com/repos/facebook/jest",
+    "stargazers_count": 19333
+  },
+  "machine-learning-for-software-engineers": {
+    "url": "https://api.github.com/repos/ZuzooVn/machine-learning-for-software-engineers",
+    "stargazers_count": 19328
+  },
+  "awesome-php": {
+    "url": "https://api.github.com/repos/ziadoz/awesome-php",
+    "stargazers_count": 19321
+  },
+  "RxJS": {
+    "url": "https://api.github.com/repos/Reactive-Extensions/RxJS",
+    "stargazers_count": 19265
+  },
+  "ember.js": {
+    "url": "https://api.github.com/repos/emberjs/ember.js",
+    "stargazers_count": 19250
+  },
+  "react-boilerplate": {
+    "url": "https://api.github.com/repos/react-boilerplate/react-boilerplate",
+    "stargazers_count": 19214
+  },
+  "mermaid": {
+    "url": "https://api.github.com/repos/knsv/mermaid",
+    "stargazers_count": 19192
+  },
+  "gin": {
+    "url": "https://api.github.com/repos/gin-gonic/gin",
+    "stargazers_count": 19181
+  },
+  "CppCoreGuidelines": {
+    "url": "https://api.github.com/repos/isocpp/CppCoreGuidelines",
+    "stargazers_count": 19161
+  },
+  "pop": {
+    "url": "https://api.github.com/repos/facebook/pop",
+    "stargazers_count": 19139
+  },
+  "Rocket.Chat": {
+    "url": "https://api.github.com/repos/RocketChat/Rocket.Chat",
+    "stargazers_count": 19131
+  },
+  "AndroidUtilCode": {
+    "url": "https://api.github.com/repos/Blankj/AndroidUtilCode",
+    "stargazers_count": 19041
+  },
+  "quill": {
+    "url": "https://api.github.com/repos/quilljs/quill",
+    "stargazers_count": 19038
+  },
+  "postcss": {
+    "url": "https://api.github.com/repos/postcss/postcss",
+    "stargazers_count": 19009
+  },
+  "cpython": {
+    "url": "https://api.github.com/repos/python/cpython",
+    "stargazers_count": 18963
+  },
+  "clean-code-javascript": {
+    "url": "https://api.github.com/repos/ryanmcdermott/clean-code-javascript",
+    "stargazers_count": 18950
+  },
+  "deeplearningbook-chinese": {
+    "url": "https://api.github.com/repos/exacity/deeplearningbook-chinese",
+    "stargazers_count": 18935
+  },
+  "angular-cli": {
+    "url": "https://api.github.com/repos/angular/angular-cli",
+    "stargazers_count": 18921
+  },
+  "devise": {
+    "url": "https://api.github.com/repos/plataformatec/devise",
+    "stargazers_count": 18910
+  },
+  "ReactiveCocoa": {
+    "url": "https://api.github.com/repos/ReactiveCocoa/ReactiveCocoa",
+    "stargazers_count": 18901
+  },
+  "EventBus": {
+    "url": "https://api.github.com/repos/greenrobot/EventBus",
+    "stargazers_count": 18892
+  },
+  "pure": {
+    "url": "https://api.github.com/repos/pure-css/pure",
+    "stargazers_count": 18857
+  },
+  "free-for-dev": {
+    "url": "https://api.github.com/repos/ripienaar/free-for-dev",
+    "stargazers_count": 18850
+  },
+  "sweetalert": {
+    "url": "https://api.github.com/repos/t4t5/sweetalert",
+    "stargazers_count": 18842
+  },
+  "gitbook": {
+    "url": "https://api.github.com/repos/GitbookIO/gitbook",
+    "stargazers_count": 18825
+  },
+  "upterm": {
+    "url": "https://api.github.com/repos/railsware/upterm",
+    "stargazers_count": 18823
+  },
+  "Charts": {
+    "url": "https://api.github.com/repos/danielgindi/Charts",
+    "stargazers_count": 18814
+  },
+  "hammer.js": {
+    "url": "https://api.github.com/repos/hammerjs/hammer.js",
+    "stargazers_count": 18727
+  },
+  "standard": {
+    "url": "https://api.github.com/repos/standard/standard",
+    "stargazers_count": 18685
+  },
+  "php-src": {
+    "url": "https://api.github.com/repos/php/php-src",
+    "stargazers_count": 18677
+  },
+  "devdocs": {
+    "url": "https://api.github.com/repos/freeCodeCamp/devdocs",
+    "stargazers_count": 18452
+  },
+  "Deep-Learning-Papers-Reading-Roadmap": {
+    "url": "https://api.github.com/repos/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "stargazers_count": 18339
+  },
+  "web-starter-kit": {
+    "url": "https://api.github.com/repos/google/web-starter-kit",
+    "stargazers_count": 18329
+  },
+  "spark": {
+    "url": "https://api.github.com/repos/apache/spark",
+    "stargazers_count": 18246
+  },
+  "profile-summary-for-github": {
+    "url": "https://api.github.com/repos/tipsy/profile-summary-for-github",
+    "stargazers_count": 18242
+  },
+  "symfony": {
+    "url": "https://api.github.com/repos/symfony/symfony",
+    "stargazers_count": 18167
+  },
+  "the-swift-programming-language-in-chinese": {
+    "url": "https://api.github.com/repos/numbbbbb/the-swift-programming-language-in-chinese",
+    "stargazers_count": 18056
+  },
+  "react-starter-kit": {
+    "url": "https://api.github.com/repos/kriasoft/react-starter-kit",
+    "stargazers_count": 18040
+  },
+  "skrollr": {
+    "url": "https://api.github.com/repos/Prinzhorn/skrollr",
+    "stargazers_count": 18031
+  },
+  "Vundle.vim": {
+    "url": "https://api.github.com/repos/VundleVim/Vundle.vim",
+    "stargazers_count": 17980
+  },
+  "styled-components": {
+    "url": "https://api.github.com/repos/styled-components/styled-components",
+    "stargazers_count": 17962
+  },
+  "dragula": {
+    "url": "https://api.github.com/repos/bevacqua/dragula",
+    "stargazers_count": 17942
+  },
+  "ace": {
+    "url": "https://api.github.com/repos/ajaxorg/ace",
+    "stargazers_count": 17912
+  },
+  "open-source-ios-apps": {
+    "url": "https://api.github.com/repos/dkhamsing/open-source-ios-apps",
+    "stargazers_count": 17905
+  },
+  "caddy": {
+    "url": "https://api.github.com/repos/mholt/caddy",
+    "stargazers_count": 17897
+  },
+  "linux-insides": {
+    "url": "https://api.github.com/repos/0xAX/linux-insides",
+    "stargazers_count": 17886
+  },
+  "hangzhou_house_knowledge": {
+    "url": "https://api.github.com/repos/houshanren/hangzhou_house_knowledge",
+    "stargazers_count": 17827
+  },
+  "swift-algorithm-club": {
+    "url": "https://api.github.com/repos/raywenderlich/swift-algorithm-club",
+    "stargazers_count": 17821
+  },
+  "prometheus": {
+    "url": "https://api.github.com/repos/prometheus/prometheus",
+    "stargazers_count": 17818
+  },
+  "realworld": {
+    "url": "https://api.github.com/repos/gothinkster/realworld",
+    "stargazers_count": 17817
+  },
+  "tldr": {
+    "url": "https://api.github.com/repos/tldr-pages/tldr",
+    "stargazers_count": 17773
+  },
+  "GPUImage": {
+    "url": "https://api.github.com/repos/BradLarson/GPUImage",
+    "stargazers_count": 17747
+  },
+  "project-guidelines": {
+    "url": "https://api.github.com/repos/elsewhencode/project-guidelines",
+    "stargazers_count": 17741
+  },
+  "security-guide-for-developers": {
+    "url": "https://api.github.com/repos/FallibleInc/security-guide-for-developers",
+    "stargazers_count": 17617
+  },
+  "sentry": {
+    "url": "https://api.github.com/repos/getsentry/sentry",
+    "stargazers_count": 17498
+  },
+  "awesome-java": {
+    "url": "https://api.github.com/repos/akullpp/awesome-java",
+    "stargazers_count": 17462
+  },
+  "pytorch": {
+    "url": "https://api.github.com/repos/pytorch/pytorch",
+    "stargazers_count": 17451
+  },
+  "awesome-sysadmin": {
+    "url": "https://api.github.com/repos/kahun/awesome-sysadmin",
+    "stargazers_count": 17449
+  },
+  "js-stack-from-scratch": {
+    "url": "https://api.github.com/repos/verekia/js-stack-from-scratch",
+    "stargazers_count": 17391
+  },
+  "webtorrent": {
+    "url": "https://api.github.com/repos/webtorrent/webtorrent",
+    "stargazers_count": 17303
+  },
+  "How-to-Make-a-Computer-Operating-System": {
+    "url": "https://api.github.com/repos/SamyPesse/How-to-Make-a-Computer-Operating-System",
+    "stargazers_count": 17285
+  },
+  "flow": {
+    "url": "https://api.github.com/repos/facebook/flow",
+    "stargazers_count": 17272
+  },
+  "SwiftyJSON": {
+    "url": "https://api.github.com/repos/SwiftyJSON/SwiftyJSON",
+    "stargazers_count": 17236
+  },
+  "hosts": {
+    "url": "https://api.github.com/repos/StevenBlack/hosts",
+    "stargazers_count": 9889
+  },
+  "modern-js-cheatsheet": {
+    "url": "https://api.github.com/repos/mbeaudru/modern-js-cheatsheet",
+    "stargazers_count": 17225
+  },
+  "kong": {
+    "url": "https://api.github.com/repos/Kong/kong",
+    "stargazers_count": 17161
+  },
+  "bluebird": {
+    "url": "https://api.github.com/repos/petkaantonov/bluebird",
+    "stargazers_count": 17134
+  },
+  "swiper": {
+    "url": "https://api.github.com/repos/nolimits4web/swiper",
+    "stargazers_count": 17070
+  },
+  "YouCompleteMe": {
+    "url": "https://api.github.com/repos/Valloric/YouCompleteMe",
+    "stargazers_count": 17009
+  },
+  "vagrant": {
+    "url": "https://api.github.com/repos/hashicorp/vagrant",
+    "stargazers_count": 17009
+  },
+  "pug": {
+    "url": "https://api.github.com/repos/pugjs/pug",
+    "stargazers_count": 16993
+  },
+  "intro.js": {
+    "url": "https://api.github.com/repos/usablica/intro.js",
+    "stargazers_count": 16951
+  },
+  "weex": {
+    "url": "https://api.github.com/repos/alibaba/weex",
+    "stargazers_count": 16939
+  },
+  "marked": {
+    "url": "https://api.github.com/repos/markedjs/marked",
+    "stargazers_count": 16939
+  },
+  "npm": {
+    "url": "https://api.github.com/repos/npm/npm",
+    "stargazers_count": 16932
+  },
+  "vue-element-admin": {
+    "url": "https://api.github.com/repos/PanJiaChen/vue-element-admin",
+    "stargazers_count": 16923
+  },
+  "PhotoSwipe": {
+    "url": "https://api.github.com/repos/dimsemenov/PhotoSwipe",
+    "stargazers_count": 16914
+  },
+  "wrk": {
+    "url": "https://api.github.com/repos/wg/wrk",
+    "stargazers_count": 16808
+  },
+  "cheerio": {
+    "url": "https://api.github.com/repos/cheeriojs/cheerio",
+    "stargazers_count": 16781
+  },
+  "android-best-practices": {
+    "url": "https://api.github.com/repos/futurice/android-best-practices",
+    "stargazers_count": 16706
+  },
+  "nprogress": {
+    "url": "https://api.github.com/repos/rstacruz/nprogress",
+    "stargazers_count": 16685
+  },
+  "Faker": {
+    "url": "https://api.github.com/repos/fzaninotto/Faker",
+    "stargazers_count": 16642
+  },
+  "fastclick": {
+    "url": "https://api.github.com/repos/ftlabs/fastclick",
+    "stargazers_count": 16637
+  },
+  "DefinitelyTyped": {
+    "url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped",
+    "stargazers_count": 16637
+  },
+  "traefik": {
+    "url": "https://api.github.com/repos/containous/traefik",
+    "stargazers_count": 16637
+  },
+  "Masonry": {
+    "url": "https://api.github.com/repos/SnapKit/Masonry",
+    "stargazers_count": 16624
+  },
+  "python-patterns": {
+    "url": "https://api.github.com/repos/faif/python-patterns",
+    "stargazers_count": 16606
+  },
+  "blog": {
+    "url": "https://api.github.com/repos/fouber/blog",
+    "stargazers_count": 16539
+  },
+  "shadowsocks-android": {
+    "url": "https://api.github.com/repos/shadowsocks/shadowsocks-android",
+    "stargazers_count": 16489
+  },
+  "awesome-wechat-weapp": {
+    "url": "https://api.github.com/repos/justjavac/awesome-wechat-weapp",
+    "stargazers_count": 16489
+  },
+  "RxAndroid": {
+    "url": "https://api.github.com/repos/ReactiveX/RxAndroid",
+    "stargazers_count": 16448
+  },
+  "mongoose": {
+    "url": "https://api.github.com/repos/Automattic/mongoose",
+    "stargazers_count": 16428
+  },
+  "grpc": {
+    "url": "https://api.github.com/repos/grpc/grpc",
+    "stargazers_count": 16426
+  },
+  "CodeIgniter": {
+    "url": "https://api.github.com/repos/bcit-ci/CodeIgniter",
+    "stargazers_count": 16367
+  },
+  "iview": {
+    "url": "https://api.github.com/repos/iview/iview",
+    "stargazers_count": 16360
+  },
+  "beego": {
+    "url": "https://api.github.com/repos/astaxie/beego",
+    "stargazers_count": 16317
+  },
+  "material": {
+    "url": "https://api.github.com/repos/angular/material",
+    "stargazers_count": 16286
+  },
+  "nativefier": {
+    "url": "https://api.github.com/repos/jiahaog/nativefier",
+    "stargazers_count": 16253
+  },
+  "tornado": {
+    "url": "https://api.github.com/repos/tornadoweb/tornado",
+    "stargazers_count": 16242
+  },
+  "Android-Universal-Image-Loader": {
+    "url": "https://api.github.com/repos/nostra13/Android-Universal-Image-Loader",
+    "stargazers_count": 16223
+  },
+  "CodeHub": {
+    "url": "https://api.github.com/repos/CodeHubApp/CodeHub",
+    "stargazers_count": 16195
+  },
+  "particles.js": {
+    "url": "https://api.github.com/repos/VincentGarreau/particles.js",
+    "stargazers_count": 16163
+  },
+  "mobx": {
+    "url": "https://api.github.com/repos/mobxjs/mobx",
+    "stargazers_count": 16116
+  },
+  "vuex": {
+    "url": "https://api.github.com/repos/vuejs/vuex",
+    "stargazers_count": 16098
+  },
+  "jquery-pjax": {
+    "url": "https://api.github.com/repos/defunkt/jquery-pjax",
+    "stargazers_count": 16048
+  },
+  "godot": {
+    "url": "https://api.github.com/repos/godotengine/godot",
+    "stargazers_count": 15962
+  },
+  "neural-style": {
+    "url": "https://api.github.com/repos/jcjohnson/neural-style",
+    "stargazers_count": 15960
+  },
+  "mocha": {
+    "url": "https://api.github.com/repos/mochajs/mocha",
+    "stargazers_count": 15935
+  },
+  "dokku": {
+    "url": "https://api.github.com/repos/dokku/dokku",
+    "stargazers_count": 15933
+  },
+  "nightmare": {
+    "url": "https://api.github.com/repos/segmentio/nightmare",
+    "stargazers_count": 15928
+  },
+  "scrollreveal": {
+    "url": "https://api.github.com/repos/jlmakes/scrollreveal",
+    "stargazers_count": 15921
+  },
+  "Skeleton": {
+    "url": "https://api.github.com/repos/dhg/Skeleton",
+    "stargazers_count": 15847
+  },
+  "picasso": {
+    "url": "https://api.github.com/repos/square/picasso",
+    "stargazers_count": 15788
+  },
+  "iosched": {
+    "url": "https://api.github.com/repos/google/iosched",
+    "stargazers_count": 15742
+  },
+  "autoprefixer": {
+    "url": "https://api.github.com/repos/postcss/autoprefixer",
+    "stargazers_count": 15668
+  },
+  "less.js": {
+    "url": "https://api.github.com/repos/less/less.js",
+    "stargazers_count": 15645
+  },
+  "the_silver_searcher": {
+    "url": "https://api.github.com/repos/ggreer/the_silver_searcher",
+    "stargazers_count": 15602
+  },
+  "DesignPatternsPHP": {
+    "url": "https://api.github.com/repos/domnikl/DesignPatternsPHP",
+    "stargazers_count": 15595
+  },
+  "fzf": {
+    "url": "https://api.github.com/repos/junegunn/fzf",
+    "stargazers_count": 15536
+  },
+  "styleguide": {
+    "url": "https://api.github.com/repos/google/styleguide",
+    "stargazers_count": 15535
+  },
+  "face_recognition": {
+    "url": "https://api.github.com/repos/ageitgey/face_recognition",
+    "stargazers_count": 15530
+  },
+  "awesome-deep-learning-papers": {
+    "url": "https://api.github.com/repos/terryum/awesome-deep-learning-papers",
+    "stargazers_count": 15521
+  },
+  "spacemacs": {
+    "url": "https://api.github.com/repos/syl20bnr/spacemacs",
+    "stargazers_count": 15519
+  },
+  "Detectron": {
+    "url": "https://api.github.com/repos/facebookresearch/Detectron",
+    "stargazers_count": 15480
+  },
+  "composer": {
+    "url": "https://api.github.com/repos/composer/composer",
+    "stargazers_count": 15475
+  },
+  "hhvm": {
+    "url": "https://api.github.com/repos/facebook/hhvm",
+    "stargazers_count": 15446
+  },
+  "home-assistant": {
+    "url": "https://api.github.com/repos/home-assistant/home-assistant",
+    "stargazers_count": 15438
+  },
+  "flux": {
+    "url": "https://api.github.com/repos/facebook/flux",
+    "stargazers_count": 15434
+  },
+  "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers": {
+    "url": "https://api.github.com/repos/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+    "stargazers_count": 15434
+  },
+  "jadx": {
+    "url": "https://api.github.com/repos/skylot/jadx",
+    "stargazers_count": 15411
+  },
+  "nodemon": {
+    "url": "https://api.github.com/repos/remy/nodemon",
+    "stargazers_count": 15373
+  },
+  "parse-server": {
+    "url": "https://api.github.com/repos/parse-community/parse-server",
+    "stargazers_count": 15349
+  },
+  "gold-miner": {
+    "url": "https://api.github.com/repos/xitu/gold-miner",
+    "stargazers_count": 15315
+  },
+  "bower": {
+    "url": "https://api.github.com/repos/bower/bower",
+    "stargazers_count": 15304
+  },
+  "pandas": {
+    "url": "https://api.github.com/repos/pandas-dev/pandas",
+    "stargazers_count": 15304
+  },
+  "typeahead.js": {
+    "url": "https://api.github.com/repos/twitter/typeahead.js",
+    "stargazers_count": 15302
+  },
+  "gentelella": {
+    "url": "https://api.github.com/repos/puikinsh/gentelella",
+    "stargazers_count": 15298
+  },
+  "sequelize": {
+    "url": "https://api.github.com/repos/sequelize/sequelize",
+    "stargazers_count": 15288
+  },
+  "tabler": {
+    "url": "https://api.github.com/repos/tabler/tabler",
+    "stargazers_count": 15276
+  },
+  "streisand": {
+    "url": "https://api.github.com/repos/StreisandEffect/streisand",
+    "stargazers_count": 15259
+  },
+  "material2": {
+    "url": "https://api.github.com/repos/angular/material2",
+    "stargazers_count": 15237
+  },
+  "CodeMirror": {
+    "url": "https://api.github.com/repos/codemirror/CodeMirror",
+    "stargazers_count": 15212
+  },
+  "awesome-swift": {
+    "url": "https://api.github.com/repos/matteocrippa/awesome-swift",
+    "stargazers_count": 15179
+  },
+  "SpinKit": {
+    "url": "https://api.github.com/repos/tobiasahlin/SpinKit",
+    "stargazers_count": 15176
+  },
+  "emscripten": {
+    "url": "https://api.github.com/repos/kripken/emscripten",
+    "stargazers_count": 15158
+  },
+  "front-end-interview-handbook": {
+    "url": "https://api.github.com/repos/yangshun/front-end-interview-handbook",
+    "stargazers_count": 15147
+  },
+  "netty": {
+    "url": "https://api.github.com/repos/netty/netty",
+    "stargazers_count": 15114
+  },
+  "drone": {
+    "url": "https://api.github.com/repos/drone/drone",
+    "stargazers_count": 15108
+  },
+  "awesome-electron": {
+    "url": "https://api.github.com/repos/sindresorhus/awesome-electron",
+    "stargazers_count": 15064
+  },
+  "fastText": {
+    "url": "https://api.github.com/repos/facebookresearch/fastText",
+    "stargazers_count": 15008
+  },
+  "faker.js": {
+    "url": "https://api.github.com/repos/Marak/faker.js",
+    "stargazers_count": 15000
+  },
+  "react-redux-links": {
+    "url": "https://api.github.com/repos/markerikson/react-redux-links",
+    "stargazers_count": 14991
+  },
+  "cmder": {
+    "url": "https://api.github.com/repos/cmderdev/cmder",
+    "stargazers_count": 14953
+  },
+  "awesome-javascript": {
+    "url": "https://api.github.com/repos/sorrycc/awesome-javascript",
+    "stargazers_count": 14941
+  },
+  "velocity": {
+    "url": "https://api.github.com/repos/julianshapiro/velocity",
+    "stargazers_count": 14915
+  },
+  "hyperapp": {
+    "url": "https://api.github.com/repos/hyperapp/hyperapp",
+    "stargazers_count": 14899
+  },
+  "CNTK": {
+    "url": "https://api.github.com/repos/Microsoft/CNTK",
+    "stargazers_count": 14885
+  },
+  "python-guide": {
+    "url": "https://api.github.com/repos/realpython/python-guide",
+    "stargazers_count": 14861
+  },
+  "awesome-react-components": {
+    "url": "https://api.github.com/repos/brillout/awesome-react-components",
+    "stargazers_count": 14812
+  },
+  "coffeescript": {
+    "url": "https://api.github.com/repos/jashkenas/coffeescript",
+    "stargazers_count": 14795
+  },
+  "fresco": {
+    "url": "https://api.github.com/repos/facebook/fresco",
+    "stargazers_count": 14771
+  },
+  "incubator-mxnet": {
+    "url": "https://api.github.com/repos/apache/incubator-mxnet",
+    "stargazers_count": 14686
+  },
+  "MBProgressHUD": {
+    "url": "https://api.github.com/repos/jdg/MBProgressHUD",
+    "stargazers_count": 14684
+  },
+  "enzyme": {
+    "url": "https://api.github.com/repos/airbnb/enzyme",
+    "stargazers_count": 14654
+  },
+  "reddit": {
+    "url": "https://api.github.com/repos/reddit-archive/reddit",
+    "stargazers_count": 14599
+  },
+  "nodebestpractices": {
+    "url": "https://api.github.com/repos/i0natan/nodebestpractices",
+    "stargazers_count": 14584
+  },
+  "awesome-cpp": {
+    "url": "https://api.github.com/repos/fffaraz/awesome-cpp",
+    "stargazers_count": 14581
+  },
+  "ruby": {
+    "url": "https://api.github.com/repos/ruby/ruby",
+    "stargazers_count": 14581
+  },
+  "The-Art-Of-Programming-By-July": {
+    "url": "https://api.github.com/repos/julycoding/The-Art-Of-Programming-By-July",
+    "stargazers_count": 14567
+  },
+  "vapor": {
+    "url": "https://api.github.com/repos/vapor/vapor",
+    "stargazers_count": 14479
+  },
+  "corefx": {
+    "url": "https://api.github.com/repos/dotnet/corefx",
+    "stargazers_count": 14474
+  },
+  "jieba": {
+    "url": "https://api.github.com/repos/fxsjy/jieba",
+    "stargazers_count": 14473
+  },
+  "leveldb": {
+    "url": "https://api.github.com/repos/google/leveldb",
+    "stargazers_count": 14442
+  },
+  "learn-regex": {
+    "url": "https://api.github.com/repos/zeeshanu/learn-regex",
+    "stargazers_count": 14426
+  },
+  "fastjson": {
+    "url": "https://api.github.com/repos/alibaba/fastjson",
+    "stargazers_count": 14425
+  },
+  "BaseRecyclerViewAdapterHelper": {
+    "url": "https://api.github.com/repos/CymChad/BaseRecyclerViewAdapterHelper",
+    "stargazers_count": 14410
+  },
+  "redux-saga": {
+    "url": "https://api.github.com/repos/redux-saga/redux-saga",
+    "stargazers_count": 14410
+  },
+  "vue-cli": {
+    "url": "https://api.github.com/repos/vuejs/vue-cli",
+    "stargazers_count": 14404
+  },
+  "lottie-ios": {
+    "url": "https://api.github.com/repos/airbnb/lottie-ios",
+    "stargazers_count": 14398
+  },
+  "Hystrix": {
+    "url": "https://api.github.com/repos/Netflix/Hystrix",
+    "stargazers_count": 14386
+  },
+  "Hero": {
+    "url": "https://api.github.com/repos/HeroTransitions/Hero",
+    "stargazers_count": 14364
+  },
+  "ava": {
+    "url": "https://api.github.com/repos/avajs/ava",
+    "stargazers_count": 14334
+  },
+  "ratchet": {
+    "url": "https://api.github.com/repos/twbs/ratchet",
+    "stargazers_count": 14334
+  },
+  "q": {
+    "url": "https://api.github.com/repos/kriskowal/q",
+    "stargazers_count": 14293
+  },
+  "hubot": {
+    "url": "https://api.github.com/repos/hubotio/hubot",
+    "stargazers_count": 14290
+  },
+  "NativeScript": {
+    "url": "https://api.github.com/repos/NativeScript/NativeScript",
+    "stargazers_count": 14284
+  },
+  "mostly-adequate-guide": {
+    "url": "https://api.github.com/repos/MostlyAdequate/mostly-adequate-guide",
+    "stargazers_count": 14283
+  },
+  "react-motion": {
+    "url": "https://api.github.com/repos/chenglou/react-motion",
+    "stargazers_count": 14229
+  },
+  "layui": {
+    "url": "https://api.github.com/repos/sentsin/layui",
+    "stargazers_count": 14213
+  },
+  "mongo": {
+    "url": "https://api.github.com/repos/mongodb/mongo",
+    "stargazers_count": 14207
+  },
+  "ruby-style-guide": {
+    "url": "https://api.github.com/repos/rubocop-hq/ruby-style-guide",
+    "stargazers_count": 14196
+  },
+  "tidb": {
+    "url": "https://api.github.com/repos/pingcap/tidb",
+    "stargazers_count": 14186
+  },
+  "lighthouse": {
+    "url": "https://api.github.com/repos/GoogleChrome/lighthouse",
+    "stargazers_count": 14185
+  },
+  "libgdx": {
+    "url": "https://api.github.com/repos/libgdx/libgdx",
+    "stargazers_count": 14181
+  },
+  "jstraining": {
+    "url": "https://api.github.com/repos/ruanyf/jstraining",
+    "stargazers_count": 14133
+  },
+  "vimrc": {
+    "url": "https://api.github.com/repos/amix/vimrc",
+    "stargazers_count": 14130
+  },
+  "mastodon": {
+    "url": "https://api.github.com/repos/tootsuite/mastodon",
+    "stargazers_count": 14117
+  },
+  "Flat-UI": {
+    "url": "https://api.github.com/repos/designmodo/Flat-UI",
+    "stargazers_count": 14112
+  },
+  "idiomatic.js": {
+    "url": "https://api.github.com/repos/rwaldron/idiomatic.js",
+    "stargazers_count": 14095
+  },
+  "feather": {
+    "url": "https://api.github.com/repos/feathericons/feather",
+    "stargazers_count": 14065
+  },
+  "ResumeSample": {
+    "url": "https://api.github.com/repos/geekcompany/ResumeSample",
+    "stargazers_count": 14061
+  },
+  "popmotion": {
+    "url": "https://api.github.com/repos/Popmotion/popmotion",
+    "stargazers_count": 14030
+  },
+  "frp": {
+    "url": "https://api.github.com/repos/fatedier/frp",
+    "stargazers_count": 14013
+  },
+  "RxSwift": {
+    "url": "https://api.github.com/repos/ReactiveX/RxSwift",
+    "stargazers_count": 14004
+  },
+  "ngrok": {
+    "url": "https://api.github.com/repos/inconshreveable/ngrok",
+    "stargazers_count": 13981
+  },
+  "rxjs": {
+    "url": "https://api.github.com/repos/ReactiveX/rxjs",
+    "stargazers_count": 13972
+  },
+  "Sortable": {
+    "url": "https://api.github.com/repos/RubaXa/Sortable",
+    "stargazers_count": 13951
+  },
+  "influxdb": {
+    "url": "https://api.github.com/repos/influxdata/influxdb",
+    "stargazers_count": 13931
+  },
+  "docker-cheat-sheet": {
+    "url": "https://api.github.com/repos/wsargent/docker-cheat-sheet",
+    "stargazers_count": 13919
+  },
+  "zepto": {
+    "url": "https://api.github.com/repos/madrobby/zepto",
+    "stargazers_count": 13918
+  },
+  "tesseract.js": {
+    "url": "https://api.github.com/repos/naptha/tesseract.js",
+    "stargazers_count": 13912
+  },
+  "dropzone": {
+    "url": "https://api.github.com/repos/enyo/dropzone",
+    "stargazers_count": 13906
+  },
+  "cockroach": {
+    "url": "https://api.github.com/repos/cockroachdb/cockroach",
+    "stargazers_count": 13903
+  },
+  "ui-router": {
+    "url": "https://api.github.com/repos/angular-ui/ui-router",
+    "stargazers_count": 13898
+  },
+  "normalizr": {
+    "url": "https://api.github.com/repos/paularmstrong/normalizr",
+    "stargazers_count": 13868
+  },
+  "wechat_jump_game": {
+    "url": "https://api.github.com/repos/wangshub/wechat_jump_game",
+    "stargazers_count": 13860
+  },
+  "material-dialogs": {
+    "url": "https://api.github.com/repos/afollestad/material-dialogs",
+    "stargazers_count": 13846
+  },
+  "passport": {
+    "url": "https://api.github.com/repos/jaredhanson/passport",
+    "stargazers_count": 13845
+  },
+  "pace": {
+    "url": "https://api.github.com/repos/HubSpot/pace",
+    "stargazers_count": 13839
+  },
+  "engineering-blogs": {
+    "url": "https://api.github.com/repos/kilimchoi/engineering-blogs",
+    "stargazers_count": 13802
+  },
+  "nuxt.js": {
+    "url": "https://api.github.com/repos/nuxt/nuxt.js",
+    "stargazers_count": 13802
+  },
+  "SecLists": {
+    "url": "https://api.github.com/repos/danielmiessler/SecLists",
+    "stargazers_count": 13783
+  },
+  "lime": {
+    "url": "https://api.github.com/repos/limetext/lime",
+    "stargazers_count": 13741
+  },
+  "jasmine": {
+    "url": "https://api.github.com/repos/jasmine/jasmine",
+    "stargazers_count": 13716
+  },
+  "You-Dont-Need-jQuery": {
+    "url": "https://api.github.com/repos/nefe/You-Dont-Need-jQuery",
+    "stargazers_count": 13684
+  },
+  "mojs": {
+    "url": "https://api.github.com/repos/legomushroom/mojs",
+    "stargazers_count": 13669
+  },
+  "ipfs": {
+    "url": "https://api.github.com/repos/ipfs/ipfs",
+    "stargazers_count": 13639
+  },
+  "interactive-coding-challenges": {
+    "url": "https://api.github.com/repos/donnemartin/interactive-coding-challenges",
+    "stargazers_count": 13631
+  },
+  "PhotoView": {
+    "url": "https://api.github.com/repos/chrisbanes/PhotoView",
+    "stargazers_count": 13581
+  },
+  "handlebars.js": {
+    "url": "https://api.github.com/repos/wycats/handlebars.js",
+    "stargazers_count": 13569
+  },
+  "vux": {
+    "url": "https://api.github.com/repos/airyland/vux",
+    "stargazers_count": 13550
+  },
+  "SmartRefreshLayout": {
+    "url": "https://api.github.com/repos/scwang90/SmartRefreshLayout",
+    "stargazers_count": 13490
+  },
+  "vim": {
+    "url": "https://api.github.com/repos/vim/vim",
+    "stargazers_count": 13479
+  },
+  "draft-js": {
+    "url": "https://api.github.com/repos/facebook/draft-js",
+    "stargazers_count": 13473
+  },
+  "react-bootstrap": {
+    "url": "https://api.github.com/repos/react-bootstrap/react-bootstrap",
+    "stargazers_count": 13468
+  },
+  "es6tutorial": {
+    "url": "https://api.github.com/repos/ruanyf/es6tutorial",
+    "stargazers_count": 13465
+  },
+  "elixir": {
+    "url": "https://api.github.com/repos/elixir-lang/elixir",
+    "stargazers_count": 13448
+  },
+  "tips": {
+    "url": "https://api.github.com/repos/git-tips/tips",
+    "stargazers_count": 13414
+  },
+  "ShadowsocksX-NG": {
+    "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG",
+    "stargazers_count": 13400
+  },
+  "react-redux": {
+    "url": "https://api.github.com/repos/reduxjs/react-redux",
+    "stargazers_count": 13391
+  },
+  "guzzle": {
+    "url": "https://api.github.com/repos/guzzle/guzzle",
+    "stargazers_count": 13351
+  },
+  "masonry": {
+    "url": "https://api.github.com/repos/desandro/masonry",
+    "stargazers_count": 13333
+  },
+  "compose": {
+    "url": "https://api.github.com/repos/docker/compose",
+    "stargazers_count": 13333
+  },
+  "rollup": {
+    "url": "https://api.github.com/repos/rollup/rollup",
+    "stargazers_count": 13323
+  },
+  "hub": {
+    "url": "https://api.github.com/repos/github/hub",
+    "stargazers_count": 13320
+  },
+  "data-science-ipython-notebooks": {
+    "url": "https://api.github.com/repos/donnemartin/data-science-ipython-notebooks",
+    "stargazers_count": 13298
+  },
+  "homebrew-cask": {
+    "url": "https://api.github.com/repos/Homebrew/homebrew-cask",
+    "stargazers_count": 13295
+  },
+  "macOS-Security-and-Privacy-Guide": {
+    "url": "https://api.github.com/repos/drduh/macOS-Security-and-Privacy-Guide",
+    "stargazers_count": 13289
+  },
+  "angular-seed": {
+    "url": "https://api.github.com/repos/angular/angular-seed",
+    "stargazers_count": 13275
+  },
+  "ramda": {
+    "url": "https://api.github.com/repos/ramda/ramda",
+    "stargazers_count": 13266
+  },
+  "node-lessons": {
+    "url": "https://api.github.com/repos/alsotang/node-lessons",
+    "stargazers_count": 13250
+  },
+  "react-demos": {
+    "url": "https://api.github.com/repos/ruanyf/react-demos",
+    "stargazers_count": 13236
+  },
+  "framework": {
+    "url": "https://api.github.com/repos/aurelia/framework",
+    "stargazers_count": 10582
+  },
+  "uBlock": {
+    "url": "https://api.github.com/repos/gorhill/uBlock",
+    "stargazers_count": 13199
+  },
+  "SwiftGuide": {
+    "url": "https://api.github.com/repos/ipader/SwiftGuide",
+    "stargazers_count": 13196
+  },
+  "gson": {
+    "url": "https://api.github.com/repos/google/gson",
+    "stargazers_count": 13182
+  },
+  "parallax": {
+    "url": "https://api.github.com/repos/wagerfield/parallax",
+    "stargazers_count": 13181
+  },
+  "brew": {
+    "url": "https://api.github.com/repos/Homebrew/brew",
+    "stargazers_count": 13164
+  },
+  "SnapKit": {
+    "url": "https://api.github.com/repos/SnapKit/SnapKit",
+    "stargazers_count": 13162
+  },
+  "riot": {
+    "url": "https://api.github.com/repos/riot/riot",
+    "stargazers_count": 13141
+  },
+  "statsd": {
+    "url": "https://api.github.com/repos/etsy/statsd",
+    "stargazers_count": 13128
+  },
+  "wekan": {
+    "url": "https://api.github.com/repos/wekan/wekan",
+    "stargazers_count": 13111
+  },
+  "superagent": {
+    "url": "https://api.github.com/repos/visionmedia/superagent",
+    "stargazers_count": 13082
+  },
+  "xi-editor": {
+    "url": "https://api.github.com/repos/google/xi-editor",
+    "stargazers_count": 13075
+  },
+  "metasploit-framework": {
+    "url": "https://api.github.com/repos/rapid7/metasploit-framework",
+    "stargazers_count": 13068
+  },
+  "source-code-pro": {
+    "url": "https://api.github.com/repos/adobe-fonts/source-code-pro",
+    "stargazers_count": 13055
+  },
+  "keystone": {
+    "url": "https://api.github.com/repos/keystonejs/keystone",
+    "stargazers_count": 13053
+  },
+  "Perfect": {
+    "url": "https://api.github.com/repos/PerfectlySoft/Perfect",
+    "stargazers_count": 13052
+  },
+  "octotree": {
+    "url": "https://api.github.com/repos/buunguyen/octotree",
+    "stargazers_count": 13051
+  },
+  "localForage": {
+    "url": "https://api.github.com/repos/localForage/localForage",
+    "stargazers_count": 13038
+  },
+  "gym": {
+    "url": "https://api.github.com/repos/openai/gym",
+    "stargazers_count": 12966
+  },
+  "terraform": {
+    "url": "https://api.github.com/repos/hashicorp/terraform",
+    "stargazers_count": 12948
+  },
+  "react-select": {
+    "url": "https://api.github.com/repos/JedWatson/react-select",
+    "stargazers_count": 12942
+  },
+  "consul": {
+    "url": "https://api.github.com/repos/hashicorp/consul",
+    "stargazers_count": 12935
+  },
+  "ionicons": {
+    "url": "https://api.github.com/repos/ionic-team/ionicons",
+    "stargazers_count": 12930
+  },
+  "xgboost": {
+    "url": "https://api.github.com/repos/dmlc/xgboost",
+    "stargazers_count": 12915
+  },
+  "chromeless": {
+    "url": "https://api.github.com/repos/prismagraphql/chromeless",
+    "stargazers_count": 12913
+  },
+  "nsq": {
+    "url": "https://api.github.com/repos/nsqio/nsq",
+    "stargazers_count": 12906
+  },
+  "ipython": {
+    "url": "https://api.github.com/repos/ipython/ipython",
+    "stargazers_count": 12898
+  },
+  "awesome-shell": {
+    "url": "https://api.github.com/repos/alebcay/awesome-shell",
+    "stargazers_count": 12892
+  },
+  "iina": {
+    "url": "https://api.github.com/repos/lhc70000/iina",
+    "stargazers_count": 12891
+  },
+  "html2canvas": {
+    "url": "https://api.github.com/repos/niklasvh/html2canvas",
+    "stargazers_count": 12886
+  },
+  "dayjs": {
+    "url": "https://api.github.com/repos/iamkun/dayjs",
+    "stargazers_count": 12859
+  },
+  "osquery": {
+    "url": "https://api.github.com/repos/facebook/osquery",
+    "stargazers_count": 12855
+  },
+  "localstack": {
+    "url": "https://api.github.com/repos/localstack/localstack",
+    "stargazers_count": 12850
+  },
+  "uikit": {
+    "url": "https://api.github.com/repos/uikit/uikit",
+    "stargazers_count": 12849
+  },
+  "http-api-design": {
+    "url": "https://api.github.com/repos/interagent/http-api-design",
+    "stargazers_count": 12838
+  },
+  "HowToBeAProgrammer": {
+    "url": "https://api.github.com/repos/braydie/HowToBeAProgrammer",
+    "stargazers_count": 12838
+  },
+  "wepy": {
+    "url": "https://api.github.com/repos/Tencent/wepy",
+    "stargazers_count": 12825
+  },
+  "fks": {
+    "url": "https://api.github.com/repos/JacksonTian/fks",
+    "stargazers_count": 12825
+  },
+  "lottie-web": {
+    "url": "https://api.github.com/repos/airbnb/lottie-web",
+    "stargazers_count": 12783
+  },
+  "react-native-guide": {
+    "url": "https://api.github.com/repos/reactnativecn/react-native-guide",
+    "stargazers_count": 12779
+  },
+  "f8app": {
+    "url": "https://api.github.com/repos/fbsamples/f8app",
+    "stargazers_count": 12766
+  },
+  "inferno": {
+    "url": "https://api.github.com/repos/infernojs/inferno",
+    "stargazers_count": 12759
+  },
+  "css-protips": {
+    "url": "https://api.github.com/repos/AllThingsSmitty/css-protips",
+    "stargazers_count": 12753
+  },
+  "mattermost-server": {
+    "url": "https://api.github.com/repos/mattermost/mattermost-server",
+    "stargazers_count": 12751
+  },
+  "react-navigation": {
+    "url": "https://api.github.com/repos/react-navigation/react-navigation",
+    "stargazers_count": 12749
+  },
+  "pipenv": {
+    "url": "https://api.github.com/repos/pypa/pipenv",
+    "stargazers_count": 12739
+  },
+  "framework7": {
+    "url": "https://api.github.com/repos/framework7io/framework7",
+    "stargazers_count": 12738
+  },
+  "AsyncDisplayKit": {
+    "url": "https://api.github.com/repos/facebookarchive/AsyncDisplayKit",
+    "stargazers_count": 12728
+  },
+  "solarized": {
+    "url": "https://api.github.com/repos/altercation/solarized",
+    "stargazers_count": 12724
+  },
+  "spf13-vim": {
+    "url": "https://api.github.com/repos/spf13/spf13-vim",
+    "stargazers_count": 12705
+  },
+  "bootstrap-sass": {
+    "url": "https://api.github.com/repos/twbs/bootstrap-sass",
+    "stargazers_count": 12675
+  },
+  "open-source-mac-os-apps": {
+    "url": "https://api.github.com/repos/serhii-londar/open-source-mac-os-apps",
+    "stargazers_count": 12627
+  },
+  "highlight.js": {
+    "url": "https://api.github.com/repos/highlightjs/highlight.js",
+    "stargazers_count": 12611
+  },
+  "flv.js": {
+    "url": "https://api.github.com/repos/Bilibili/flv.js",
+    "stargazers_count": 12606
+  },
+  "webpack-dashboard": {
+    "url": "https://api.github.com/repos/FormidableLabs/webpack-dashboard",
+    "stargazers_count": 12605
+  },
+  "hexo-theme-next": {
+    "url": "https://api.github.com/repos/iissnan/hexo-theme-next",
+    "stargazers_count": 12600
+  },
+  "fmdb": {
+    "url": "https://api.github.com/repos/ccgus/fmdb",
+    "stargazers_count": 12584
+  },
+  "fonts": {
+    "url": "https://api.github.com/repos/google/fonts",
+    "stargazers_count": 10971
+  },
+  "ngx-admin": {
+    "url": "https://api.github.com/repos/akveo/ngx-admin",
+    "stargazers_count": 12526
+  },
+  "medium-editor": {
+    "url": "https://api.github.com/repos/yabwe/medium-editor",
+    "stargazers_count": 12524
+  },
+  "prepack": {
+    "url": "https://api.github.com/repos/facebook/prepack",
+    "stargazers_count": 12518
+  },
+  "mysql": {
+    "url": "https://api.github.com/repos/mysqljs/mysql",
+    "stargazers_count": 12481
+  },
+  "druid": {
+    "url": "https://api.github.com/repos/alibaba/druid",
+    "stargazers_count": 12432
+  },
+  "Spring": {
+    "url": "https://api.github.com/repos/MengTo/Spring",
+    "stargazers_count": 12431
+  },
+  "carbon": {
+    "url": "https://api.github.com/repos/dawnlabs/carbon",
+    "stargazers_count": 12375
+  },
+  "realm-cocoa": {
+    "url": "https://api.github.com/repos/realm/realm-cocoa",
+    "stargazers_count": 12350
+  },
+  "awesome-scalability": {
+    "url": "https://api.github.com/repos/binhnguyennus/awesome-scalability",
+    "stargazers_count": 12318
+  },
+  "stackedit": {
+    "url": "https://api.github.com/repos/benweet/stackedit",
+    "stargazers_count": 12316
+  },
+  "algorithms": {
+    "url": "https://api.github.com/repos/keon/algorithms",
+    "stargazers_count": 12310
+  },
+  "react-native-elements": {
+    "url": "https://api.github.com/repos/react-native-training/react-native-elements",
+    "stargazers_count": 12309
+  },
+  "vuetify": {
+    "url": "https://api.github.com/repos/vuetifyjs/vuetify",
+    "stargazers_count": 12302
+  },
+  "swagger-ui": {
+    "url": "https://api.github.com/repos/swagger-api/swagger-ui",
+    "stargazers_count": 12302
+  },
+  "lectures": {
+    "url": "https://api.github.com/repos/oxford-cs-deepnlp-2017/lectures",
+    "stargazers_count": 12289
+  },
+  "ZeroNet": {
+    "url": "https://api.github.com/repos/HelloZeroNet/ZeroNet",
+    "stargazers_count": 12288
+  },
+  "YYKit": {
+    "url": "https://api.github.com/repos/ibireme/YYKit",
+    "stargazers_count": 12285
+  },
+  "minio": {
+    "url": "https://api.github.com/repos/minio/minio",
+    "stargazers_count": 12267
+  },
+  "mustache.js": {
+    "url": "https://api.github.com/repos/janl/mustache.js",
+    "stargazers_count": 12264
+  },
+  "Kingfisher": {
+    "url": "https://api.github.com/repos/onevcat/Kingfisher",
+    "stargazers_count": 12248
+  },
+  "pandoc": {
+    "url": "https://api.github.com/repos/jgm/pandoc",
+    "stargazers_count": 12244
+  },
+  "awesome-tensorflow": {
+    "url": "https://api.github.com/repos/jtoy/awesome-tensorflow",
+    "stargazers_count": 12229
+  },
+  "node-inspector": {
+    "url": "https://api.github.com/repos/node-inspector/node-inspector",
+    "stargazers_count": 12229
+  },
+  "tinker": {
+    "url": "https://api.github.com/repos/Tencent/tinker",
+    "stargazers_count": 12227
+  },
+  "phoenix": {
+    "url": "https://api.github.com/repos/phoenixframework/phoenix",
+    "stargazers_count": 12200
+  },
+  "cocos2d-x": {
+    "url": "https://api.github.com/repos/cocos2d/cocos2d-x",
+    "stargazers_count": 12191
+  },
+  "awesome-remote-job": {
+    "url": "https://api.github.com/repos/lukasz-madon/awesome-remote-job",
+    "stargazers_count": 12190
+  },
+  "proxyee-down": {
+    "url": "https://api.github.com/repos/proxyee-down-org/proxyee-down",
+    "stargazers_count": 12187
+  },
+  "yii2": {
+    "url": "https://api.github.com/repos/yiisoft/yii2",
+    "stargazers_count": 12172
+  },
+  "react-sketchapp": {
+    "url": "https://api.github.com/repos/airbnb/react-sketchapp",
+    "stargazers_count": 12142
+  },
+  "Android-CleanArchitecture": {
+    "url": "https://api.github.com/repos/android10/Android-CleanArchitecture",
+    "stargazers_count": 12136
+  },
+  "browserify": {
+    "url": "https://api.github.com/repos/browserify/browserify",
+    "stargazers_count": 12115
+  },
+  "reselect": {
+    "url": "https://api.github.com/repos/reduxjs/reselect",
+    "stargazers_count": 12103
+  },
+  "awesome-blockchain-cn": {
+    "url": "https://api.github.com/repos/chaozh/awesome-blockchain-cn",
+    "stargazers_count": 12094
+  },
+  "MJRefresh": {
+    "url": "https://api.github.com/repos/CoderMJLee/MJRefresh",
+    "stargazers_count": 12087
+  },
+  "mpvue": {
+    "url": "https://api.github.com/repos/Meituan-Dianping/mpvue",
+    "stargazers_count": 12080
+  },
+  "servo": {
+    "url": "https://api.github.com/repos/servo/servo",
+    "stargazers_count": 12072
+  },
+  "amazeui": {
+    "url": "https://api.github.com/repos/amazeui/amazeui",
+    "stargazers_count": 12061
+  },
+  "functional-programming-jargon": {
+    "url": "https://api.github.com/repos/hemanth/functional-programming-jargon",
+    "stargazers_count": 12058
+  },
+  "commander.js": {
+    "url": "https://api.github.com/repos/tj/commander.js",
+    "stargazers_count": 12040
+  },
+  "flexbox-layout": {
+    "url": "https://api.github.com/repos/google/flexbox-layout",
+    "stargazers_count": 12012
+  },
+  "cs-video-courses": {
+    "url": "https://api.github.com/repos/Developer-Y/cs-video-courses",
+    "stargazers_count": 12005
+  },
+  "project-based-learning": {
+    "url": "https://api.github.com/repos/tuvtran/project-based-learning",
+    "stargazers_count": 11999
+  },
+  "eslint": {
+    "url": "https://api.github.com/repos/eslint/eslint",
+    "stargazers_count": 11991
+  },
+  "mitmproxy": {
+    "url": "https://api.github.com/repos/mitmproxy/mitmproxy",
+    "stargazers_count": 11984
+  },
+  "pyenv": {
+    "url": "https://api.github.com/repos/pyenv/pyenv",
+    "stargazers_count": 11958
+  },
+  "jq": {
+    "url": "https://api.github.com/repos/stedolan/jq",
+    "stargazers_count": 11942
+  },
+  "sqlmap": {
+    "url": "https://api.github.com/repos/sqlmapproject/sqlmap",
+    "stargazers_count": 11928
+  },
+  "wtfjs": {
+    "url": "https://api.github.com/repos/denysdovhan/wtfjs",
+    "stargazers_count": 11909
+  },
+  "diaspora": {
+    "url": "https://api.github.com/repos/diaspora/diaspora",
+    "stargazers_count": 11908
+  },
+  "awesome-docker": {
+    "url": "https://api.github.com/repos/veggiemonk/awesome-docker",
+    "stargazers_count": 11901
+  },
+  "IQKeyboardManager": {
+    "url": "https://api.github.com/repos/hackiftekhar/IQKeyboardManager",
+    "stargazers_count": 11875
+  },
+  "ItChat": {
+    "url": "https://api.github.com/repos/littlecodersh/ItChat",
+    "stargazers_count": 11866
+  },
+  "grunt": {
+    "url": "https://api.github.com/repos/gruntjs/grunt",
+    "stargazers_count": 11836
+  },
+  "Material-Animations": {
+    "url": "https://api.github.com/repos/lgvalle/Material-Animations",
+    "stargazers_count": 11832
+  },
+  "shellcheck": {
+    "url": "https://api.github.com/repos/koalaman/shellcheck",
+    "stargazers_count": 11811
+  },
+  "amphtml": {
+    "url": "https://api.github.com/repos/ampproject/amphtml",
+    "stargazers_count": 11809
+  },
+  "Carthage": {
+    "url": "https://api.github.com/repos/Carthage/Carthage",
+    "stargazers_count": 11796
+  },
+  "stream-handbook": {
+    "url": "https://api.github.com/repos/substack/stream-handbook",
+    "stargazers_count": 11791
+  },
+  "mint-ui": {
+    "url": "https://api.github.com/repos/ElemeFE/mint-ui",
+    "stargazers_count": 11789
+  },
+  "anko": {
+    "url": "https://api.github.com/repos/Kotlin/anko",
+    "stargazers_count": 11782
+  },
+  "tomorrow-theme": {
+    "url": "https://api.github.com/repos/chriskempson/tomorrow-theme",
+    "stargazers_count": 11759
+  },
+  "etcher": {
+    "url": "https://api.github.com/repos/resin-io/etcher",
+    "stargazers_count": 11742
+  },
+  "plyr": {
+    "url": "https://api.github.com/repos/sampotts/plyr",
+    "stargazers_count": 11738
+  },
+  "js-must-watch": {
+    "url": "https://api.github.com/repos/bolshchikov/js-must-watch",
+    "stargazers_count": 11711
+  },
+  "react-virtualized": {
+    "url": "https://api.github.com/repos/bvaughn/react-virtualized",
+    "stargazers_count": 11707
+  },
+  "pyspider": {
+    "url": "https://api.github.com/repos/binux/pyspider",
+    "stargazers_count": 11706
+  },
+  "textmate": {
+    "url": "https://api.github.com/repos/textmate/textmate",
+    "stargazers_count": 11703
+  },
+  "FFmpeg": {
+    "url": "https://api.github.com/repos/FFmpeg/FFmpeg",
+    "stargazers_count": 11699
+  },
+  "requirejs": {
+    "url": "https://api.github.com/repos/requirejs/requirejs",
+    "stargazers_count": 11689
+  },
+  "git-extras": {
+    "url": "https://api.github.com/repos/tj/git-extras",
+    "stargazers_count": 11684
+  },
+  "waifu2x": {
+    "url": "https://api.github.com/repos/nagadomi/waifu2x",
+    "stargazers_count": 11650
+  },
+  "N-blog": {
+    "url": "https://api.github.com/repos/nswbmw/N-blog",
+    "stargazers_count": 11647
+  },
+  "blessed-contrib": {
+    "url": "https://api.github.com/repos/yaronn/blessed-contrib",
+    "stargazers_count": 11628
+  },
+  "julia": {
+    "url": "https://api.github.com/repos/JuliaLang/julia",
+    "stargazers_count": 11624
+  },
+  "vim-plug": {
+    "url": "https://api.github.com/repos/junegunn/vim-plug",
+    "stargazers_count": 11565
+  },
+  "jsPDF": {
+    "url": "https://api.github.com/repos/MrRio/jsPDF",
+    "stargazers_count": 11556
+  },
+  "cayley": {
+    "url": "https://api.github.com/repos/cayleygraph/cayley",
+    "stargazers_count": 11555
+  },
+  "store.js": {
+    "url": "https://api.github.com/repos/marcuswestin/store.js",
+    "stargazers_count": 11537
+  },
+  "imgui": {
+    "url": "https://api.github.com/repos/ocornut/imgui",
+    "stargazers_count": 11510
+  },
+  "js-xlsx": {
+    "url": "https://api.github.com/repos/SheetJS/js-xlsx",
+    "stargazers_count": 11485
+  },
+  "Aerial": {
+    "url": "https://api.github.com/repos/JohnCoates/Aerial",
+    "stargazers_count": 11483
+  },
+  "PHPMailer": {
+    "url": "https://api.github.com/repos/PHPMailer/PHPMailer",
+    "stargazers_count": 11478
+  },
+  "API-Security-Checklist": {
+    "url": "https://api.github.com/repos/shieldfy/API-Security-Checklist",
+    "stargazers_count": 11470
+  },
+  "Snap.svg": {
+    "url": "https://api.github.com/repos/adobe-webplatform/Snap.svg",
+    "stargazers_count": 11467
+  },
+  "crystal": {
+    "url": "https://api.github.com/repos/crystal-lang/crystal",
+    "stargazers_count": 11463
+  },
+  "alacritty": {
+    "url": "https://api.github.com/repos/jwilm/alacritty",
+    "stargazers_count": 11460
+  },
+  "uppy": {
+    "url": "https://api.github.com/repos/transloadit/uppy",
+    "stargazers_count": 11457
+  },
+  "date-fns": {
+    "url": "https://api.github.com/repos/date-fns/date-fns",
+    "stargazers_count": 11454
+  },
+  "sass": {
+    "url": "https://api.github.com/repos/sass/sass",
+    "stargazers_count": 11448
+  },
+  "Qix": {
+    "url": "https://api.github.com/repos/ty4z2008/Qix",
+    "stargazers_count": 11444
+  },
+  "react-canvas": {
+    "url": "https://api.github.com/repos/Flipboard/react-canvas",
+    "stargazers_count": 11418
+  },
+  "loopback": {
+    "url": "https://api.github.com/repos/strongloop/loopback",
+    "stargazers_count": 11414
+  },
+  "deepdream": {
+    "url": "https://api.github.com/repos/google/deepdream",
+    "stargazers_count": 11406
+  },
+  "Public-APIs": {
+    "url": "https://api.github.com/repos/abhishekbanthia/Public-APIs",
+    "stargazers_count": 11397
+  },
+  "recompose": {
+    "url": "https://api.github.com/repos/acdlite/recompose",
+    "stargazers_count": 11392
+  },
+  "Best-App": {
+    "url": "https://api.github.com/repos/hzlzh/Best-App",
+    "stargazers_count": 11392
+  },
+  "predictionio": {
+    "url": "https://api.github.com/repos/apache/predictionio",
+    "stargazers_count": 11384
+  },
+  "architecture.of.internet-product": {
+    "url": "https://api.github.com/repos/davideuler/architecture.of.internet-product",
+    "stargazers_count": 11375
+  },
+  "guetzli": {
+    "url": "https://api.github.com/repos/google/guetzli",
+    "stargazers_count": 11364
+  },
+  "Respond": {
+    "url": "https://api.github.com/repos/scottjehl/Respond",
+    "stargazers_count": 11350
+  },
+  "forever": {
+    "url": "https://api.github.com/repos/foreverjs/forever",
+    "stargazers_count": 11337
+  },
+  "react-redux-universal-hot-example": {
+    "url": "https://api.github.com/repos/erikras/react-redux-universal-hot-example",
+    "stargazers_count": 11335
+  },
+  "Chameleon": {
+    "url": "https://api.github.com/repos/viccalexander/Chameleon",
+    "stargazers_count": 11333
+  },
+  "Hack": {
+    "url": "https://api.github.com/repos/source-foundry/Hack",
+    "stargazers_count": 11330
+  },
+  "plaid": {
+    "url": "https://api.github.com/repos/nickbutcher/plaid",
+    "stargazers_count": 11319
+  },
+  "selenium": {
+    "url": "https://api.github.com/repos/SeleniumHQ/selenium",
+    "stargazers_count": 11314
+  },
+  "cheat.sh": {
+    "url": "https://api.github.com/repos/chubin/cheat.sh",
+    "stargazers_count": 11273
+  },
+  "relay": {
+    "url": "https://api.github.com/repos/facebook/relay",
+    "stargazers_count": 11268
+  },
+  "mean": {
+    "url": "https://api.github.com/repos/linnovate/mean",
+    "stargazers_count": 11248
+  },
+  "solved-by-flexbox": {
+    "url": "https://api.github.com/repos/philipwalton/solved-by-flexbox",
+    "stargazers_count": 11243
+  },
+  "iscroll": {
+    "url": "https://api.github.com/repos/cubiq/iscroll",
+    "stargazers_count": 11239
+  },
+  "draggable": {
+    "url": "https://api.github.com/repos/Shopify/draggable",
+    "stargazers_count": 11228
+  },
+  "skill-map": {
+    "url": "https://api.github.com/repos/TeamStuQ/skill-map",
+    "stargazers_count": 11227
+  },
+  "quick-look-plugins": {
+    "url": "https://api.github.com/repos/sindresorhus/quick-look-plugins",
+    "stargazers_count": 11226
+  },
+  "WordPress": {
+    "url": "https://api.github.com/repos/WordPress/WordPress",
+    "stargazers_count": 11212
+  },
+  "front-end-guide": {
+    "url": "https://api.github.com/repos/grab/front-end-guide",
+    "stargazers_count": 11183
+  },
+  "Effeckt.css": {
+    "url": "https://api.github.com/repos/h5bp/Effeckt.css",
+    "stargazers_count": 11182
+  },
+  "django-rest-framework": {
+    "url": "https://api.github.com/repos/encode/django-rest-framework",
+    "stargazers_count": 11181
+  },
+  "games": {
+    "url": "https://api.github.com/repos/leereilly/games",
+    "stargazers_count": 11176
+  },
+  "graphql-js": {
+    "url": "https://api.github.com/repos/graphql/graphql-js",
+    "stargazers_count": 11159
+  },
+  "WebViewJavascriptBridge": {
+    "url": "https://api.github.com/repos/marcuswestin/WebViewJavascriptBridge",
+    "stargazers_count": 11159
+  },
+  "selectize.js": {
+    "url": "https://api.github.com/repos/selectize/selectize.js",
+    "stargazers_count": 11157
+  },
+  "SVProgressHUD": {
+    "url": "https://api.github.com/repos/SVProgressHUD/SVProgressHUD",
+    "stargazers_count": 11136
+  },
+  "rocksdb": {
+    "url": "https://api.github.com/repos/facebook/rocksdb",
+    "stargazers_count": 11135
+  },
+  "echo": {
+    "url": "https://api.github.com/repos/labstack/echo",
+    "stargazers_count": 11124
+  },
+  "JSQMessagesViewController": {
+    "url": "https://api.github.com/repos/jessesquires/JSQMessagesViewController",
+    "stargazers_count": 11118
+  },
+  "dashing": {
+    "url": "https://api.github.com/repos/Shopify/dashing",
+    "stargazers_count": 11118
+  },
+  "charts": {
+    "url": "https://api.github.com/repos/frappe/charts",
+    "stargazers_count": 11118
+  },
+  "generator-jhipster": {
+    "url": "https://api.github.com/repos/jhipster/generator-jhipster",
+    "stargazers_count": 11118
+  },
+  "iris": {
+    "url": "https://api.github.com/repos/kataras/iris",
+    "stargazers_count": 11110
+  },
+  "ant-design-pro": {
+    "url": "https://api.github.com/repos/ant-design/ant-design-pro",
+    "stargazers_count": 11108
+  },
+  "postgrest": {
+    "url": "https://api.github.com/repos/PostgREST/postgrest",
+    "stargazers_count": 11091
+  },
+  "monolog": {
+    "url": "https://api.github.com/repos/Seldaek/monolog",
+    "stargazers_count": 11074
+  },
+  "vim-airline": {
+    "url": "https://api.github.com/repos/vim-airline/vim-airline",
+    "stargazers_count": 11069
+  },
+  "folly": {
+    "url": "https://api.github.com/repos/facebook/folly",
+    "stargazers_count": 11057
+  },
+  "SlidingMenu": {
+    "url": "https://api.github.com/repos/jfeinstein10/SlidingMenu",
+    "stargazers_count": 11052
+  },
+  "Mantle": {
+    "url": "https://api.github.com/repos/Mantle/Mantle",
+    "stargazers_count": 11048
+  },
+  "AR.js": {
+    "url": "https://api.github.com/repos/jeromeetienne/AR.js",
+    "stargazers_count": 11008
+  },
+  "validator.js": {
+    "url": "https://api.github.com/repos/chriso/validator.js",
+    "stargazers_count": 11005
+  },
+  "bootstrap-datepicker": {
+    "url": "https://api.github.com/repos/uxsolutions/bootstrap-datepicker",
+    "stargazers_count": 10999
+  },
+  "winston": {
+    "url": "https://api.github.com/repos/winstonjs/winston",
+    "stargazers_count": 10996
+  },
+  "zheng": {
+    "url": "https://api.github.com/repos/shuzheng/zheng",
+    "stargazers_count": 10993
+  },
+  "deep-photo-styletransfer": {
+    "url": "https://api.github.com/repos/luanfujun/deep-photo-styletransfer",
+    "stargazers_count": 10972
+  },
+  "chartist-js": {
+    "url": "https://api.github.com/repos/gionkunz/chartist-js",
+    "stargazers_count": 10946
+  },
+  "electronic-wechat": {
+    "url": "https://api.github.com/repos/geeeeeeeeek/electronic-wechat",
+    "stargazers_count": 10942
+  },
+  "faas": {
+    "url": "https://api.github.com/repos/openfaas/faas",
+    "stargazers_count": 10942
+  },
+  "data": {
+    "url": "https://api.github.com/repos/fivethirtyeight/data",
+    "stargazers_count": 10934
+  },
+  "awesome-python-cn": {
+    "url": "https://api.github.com/repos/jobbole/awesome-python-cn",
+    "stargazers_count": 10924
+  },
+  "PythonDataScienceHandbook": {
+    "url": "https://api.github.com/repos/jakevdp/PythonDataScienceHandbook",
+    "stargazers_count": 10892
+  },
+  "mars": {
+    "url": "https://api.github.com/repos/Tencent/mars",
+    "stargazers_count": 10873
+  },
+  "AngularJS-Learning": {
+    "url": "https://api.github.com/repos/jmcunningham/AngularJS-Learning",
+    "stargazers_count": 10867
+  },
+  "tmux": {
+    "url": "https://api.github.com/repos/tmux/tmux",
+    "stargazers_count": 10866
+  },
+  "rbenv": {
+    "url": "https://api.github.com/repos/rbenv/rbenv",
+    "stargazers_count": 10726
+  },
+  "lerna": {
+    "url": "https://api.github.com/repos/lerna/lerna",
+    "stargazers_count": 10719
+  },
+  "MagicalRecord": {
+    "url": "https://api.github.com/repos/magicalpanda/MagicalRecord",
+    "stargazers_count": 10712
+  },
+  "the-super-tiny-compiler": {
+    "url": "https://api.github.com/repos/jamiebuilds/the-super-tiny-compiler",
+    "stargazers_count": 10689
+  },
+  "ExoPlayer": {
+    "url": "https://api.github.com/repos/google/ExoPlayer",
+    "stargazers_count": 10673
+  },
+  "kubernetes-the-hard-way": {
+    "url": "https://api.github.com/repos/kelseyhightower/kubernetes-the-hard-way",
+    "stargazers_count": 10631
+  },
+  "gotty": {
+    "url": "https://api.github.com/repos/yudai/gotty",
+    "stargazers_count": 10625
+  },
+  "fabric.js": {
+    "url": "https://api.github.com/repos/fabricjs/fabric.js",
+    "stargazers_count": 10623
+  },
+  "aria2": {
+    "url": "https://api.github.com/repos/aria2/aria2",
+    "stargazers_count": 10617
+  },
+  "playframework": {
+    "url": "https://api.github.com/repos/playframework/playframework",
+    "stargazers_count": 10616
+  },
+  "jenkins": {
+    "url": "https://api.github.com/repos/jenkinsci/jenkins",
+    "stargazers_count": 10741
+  },
+  "metabase": {
+    "url": "https://api.github.com/repos/metabase/metabase",
+    "stargazers_count": 10736
+  },
+  "glances": {
+    "url": "https://api.github.com/repos/nicolargo/glances",
+    "stargazers_count": 10730
+  },
+  "CocoaPods": {
+    "url": "https://api.github.com/repos/CocoaPods/CocoaPods",
+    "stargazers_count": 10730
+  },
+  "iCarousel": {
+    "url": "https://api.github.com/repos/nicklockwood/iCarousel",
+    "stargazers_count": 10714
+  },
+  "pytudes": {
+    "url": "https://api.github.com/repos/norvig/pytudes",
+    "stargazers_count": 10615
+  },
+  "create-react-native-app": {
+    "url": "https://api.github.com/repos/react-community/create-react-native-app",
+    "stargazers_count": 10591
+  },
+  "design-blocks": {
+    "url": "https://api.github.com/repos/froala/design-blocks",
+    "stargazers_count": 10587
+  },
+  "smartcrop.js": {
+    "url": "https://api.github.com/repos/jwagner/smartcrop.js",
+    "stargazers_count": 10568
+  },
+  "htaccess": {
+    "url": "https://api.github.com/repos/phanan/htaccess",
+    "stargazers_count": 10560
+  },
+  "vivus": {
+    "url": "https://api.github.com/repos/maxwellito/vivus",
+    "stargazers_count": 10554
+  },
+  "dva": {
+    "url": "https://api.github.com/repos/dvajs/dva",
+    "stargazers_count": 10552
+  },
+  "nuklear": {
+    "url": "https://api.github.com/repos/vurtun/nuklear",
+    "stargazers_count": 10545
+  },
+  "material-theme": {
+    "url": "https://api.github.com/repos/equinusocio/material-theme",
+    "stargazers_count": 10545
+  },
+  "magenta": {
+    "url": "https://api.github.com/repos/tensorflow/magenta",
+    "stargazers_count": 10542
+  },
+  "my-mac-os": {
+    "url": "https://api.github.com/repos/nikitavoloboev/my-mac-os",
+    "stargazers_count": 10542
+  },
+  "pkg": {
+    "url": "https://api.github.com/repos/zeit/pkg",
+    "stargazers_count": 10533
+  },
+  "DZNEmptyDataSet": {
+    "url": "https://api.github.com/repos/dzenbot/DZNEmptyDataSet",
+    "stargazers_count": 10530
+  },
+  "JSVerbalExpressions": {
+    "url": "https://api.github.com/repos/VerbalExpressions/JSVerbalExpressions",
+    "stargazers_count": 10529
+  },
+  "JSPatch": {
+    "url": "https://api.github.com/repos/bang590/JSPatch",
+    "stargazers_count": 10525
+  },
+  "capistrano": {
+    "url": "https://api.github.com/repos/capistrano/capistrano",
+    "stargazers_count": 10520
+  },
+  "jquery-ui": {
+    "url": "https://api.github.com/repos/jquery/jquery-ui",
+    "stargazers_count": 10498
+  },
+  "Screenshot-to-code-in-Keras": {
+    "url": "https://api.github.com/repos/emilwallner/Screenshot-to-code-in-Keras",
+    "stargazers_count": 10495
+  },
+  "react-native-macos": {
+    "url": "https://api.github.com/repos/ptmt/react-native-macos",
+    "stargazers_count": 10494
+  },
+  "scala": {
+    "url": "https://api.github.com/repos/scala/scala",
+    "stargazers_count": 10474
+  },
+  "CocoaLumberjack": {
+    "url": "https://api.github.com/repos/CocoaLumberjack/CocoaLumberjack",
+    "stargazers_count": 10469
+  },
+  "bootswatch": {
+    "url": "https://api.github.com/repos/thomaspark/bootswatch",
+    "stargazers_count": 10460
+  },
+  "youmightnotneedjquery": {
+    "url": "https://api.github.com/repos/HubSpot/youmightnotneedjquery",
+    "stargazers_count": 10459
+  },
+  "openface": {
+    "url": "https://api.github.com/repos/cmusatyalab/openface",
+    "stargazers_count": 10449
+  },
+  "learn-anything": {
+    "url": "https://api.github.com/repos/learn-anything/learn-anything",
+    "stargazers_count": 10434
+  },
+  "best-resume-ever": {
+    "url": "https://api.github.com/repos/salomonelli/best-resume-ever",
+    "stargazers_count": 10431
+  },
+  "Become-A-Full-Stack-Web-Developer": {
+    "url": "https://api.github.com/repos/bmorelli25/Become-A-Full-Stack-Web-Developer",
+    "stargazers_count": 10424
+  },
+  "apollo": {
+    "url": "https://api.github.com/repos/ApolloAuto/apollo",
+    "stargazers_count": 10399
+  },
+  "androidannotations": {
+    "url": "https://api.github.com/repos/androidannotations/androidannotations",
+    "stargazers_count": 10398
+  },
+  "odoo": {
+    "url": "https://api.github.com/repos/odoo/odoo",
+    "stargazers_count": 10397
+  },
+  "howler.js": {
+    "url": "https://api.github.com/repos/goldfire/howler.js",
+    "stargazers_count": 10380
+  },
+  "awesome-ios-ui": {
+    "url": "https://api.github.com/repos/cjwirth/awesome-ios-ui",
+    "stargazers_count": 10375
+  },
+  "fig-standards": {
+    "url": "https://api.github.com/repos/php-fig/fig-standards",
+    "stargazers_count": 10357
+  },
+  "yoga": {
+    "url": "https://api.github.com/repos/facebook/yoga",
+    "stargazers_count": 10349
+  },
+  "monaco-editor": {
+    "url": "https://api.github.com/repos/Microsoft/monaco-editor",
+    "stargazers_count": 10343
+  },
+  "algorithm-visualizer": {
+    "url": "https://api.github.com/repos/algorithm-visualizer/algorithm-visualizer",
+    "stargazers_count": 10340
+  },
+  "jsdom": {
+    "url": "https://api.github.com/repos/jsdom/jsdom",
+    "stargazers_count": 10328
+  },
+  "fabric": {
+    "url": "https://api.github.com/repos/fabric/fabric",
+    "stargazers_count": 10325
+  },
+  "Magnific-Popup": {
+    "url": "https://api.github.com/repos/dimsemenov/Magnific-Popup",
+    "stargazers_count": 10324
+  },
+  "greenDAO": {
+    "url": "https://api.github.com/repos/greenrobot/greenDAO",
+    "stargazers_count": 10321
+  },
+  "PHPExcel": {
+    "url": "https://api.github.com/repos/PHPOffice/PHPExcel",
+    "stargazers_count": 10320
+  },
+  "react-redux-starter-kit": {
+    "url": "https://api.github.com/repos/davezuko/react-redux-starter-kit",
+    "stargazers_count": 10318
+  },
+  "p3c": {
+    "url": "https://api.github.com/repos/alibaba/p3c",
+    "stargazers_count": 10313
+  },
+  "handsontable": {
+    "url": "https://api.github.com/repos/handsontable/handsontable",
+    "stargazers_count": 10307
+  },
+  "Wox": {
+    "url": "https://api.github.com/repos/Wox-launcher/Wox",
+    "stargazers_count": 10300
+  },
+  "history.js": {
+    "url": "https://api.github.com/repos/browserstate/history.js",
+    "stargazers_count": 10298
+  },
+  "json": {
+    "url": "https://api.github.com/repos/nlohmann/json",
+    "stargazers_count": 10297
+  },
+  "CocoaAsyncSocket": {
+    "url": "https://api.github.com/repos/robbiehanson/CocoaAsyncSocket",
+    "stargazers_count": 10294
+  },
+  "AndroidSwipeLayout": {
+    "url": "https://api.github.com/repos/daimajia/AndroidSwipeLayout",
+    "stargazers_count": 10289
+  },
+  "vim-pathogen": {
+    "url": "https://api.github.com/repos/tpope/vim-pathogen",
+    "stargazers_count": 10286
+  },
+  "RestKit": {
+    "url": "https://api.github.com/repos/RestKit/RestKit",
+    "stargazers_count": 10283
+  },
+  "android-async-http": {
+    "url": "https://api.github.com/repos/loopj/android-async-http",
+    "stargazers_count": 10283
+  },
+  "react-howto": {
+    "url": "https://api.github.com/repos/petehunt/react-howto",
+    "stargazers_count": 10273
+  },
+  "pell": {
+    "url": "https://api.github.com/repos/jaredreich/pell",
+    "stargazers_count": 10270
+  },
+  "Telegram": {
+    "url": "https://api.github.com/repos/DrKLO/Telegram",
+    "stargazers_count": 10266
+  },
+  "CircleImageView": {
+    "url": "https://api.github.com/repos/hdodenhof/CircleImageView",
+    "stargazers_count": 10239
+  },
+  "flatpickr": {
+    "url": "https://api.github.com/repos/flatpickr/flatpickr",
+    "stargazers_count": 10237
+  },
+  "You-Dont-Need-JavaScript": {
+    "url": "https://api.github.com/repos/you-dont-need/You-Dont-Need-JavaScript",
+    "stargazers_count": 10227
+  },
+  "redux-form": {
+    "url": "https://api.github.com/repos/erikras/redux-form",
+    "stargazers_count": 10218
+  },
+  "martini": {
+    "url": "https://api.github.com/repos/go-martini/martini",
+    "stargazers_count": 10217
+  },
+  "incubator-weex": {
+    "url": "https://api.github.com/repos/apache/incubator-weex",
+    "stargazers_count": 10216
+  },
+  "LightTable": {
+    "url": "https://api.github.com/repos/LightTable/LightTable",
+    "stargazers_count": 10203
+  },
+  "diff-so-fancy": {
+    "url": "https://api.github.com/repos/so-fancy/diff-so-fancy",
+    "stargazers_count": 10200
+  },
+  "css-modules": {
+    "url": "https://api.github.com/repos/css-modules/css-modules",
+    "stargazers_count": 10198
+  },
+  "nerdtree": {
+    "url": "https://api.github.com/repos/scrooloose/nerdtree",
+    "stargazers_count": 10183
+  },
+  "bitcoinbook": {
+    "url": "https://api.github.com/repos/bitcoinbook/bitcoinbook",
+    "stargazers_count": 10179
+  },
+  "Alcatraz": {
+    "url": "https://api.github.com/repos/alcatraz/Alcatraz",
+    "stargazers_count": 10151
+  },
+  "dashboards": {
+    "url": "https://api.github.com/repos/keen/dashboards",
+    "stargazers_count": 10150
+  },
+  "js-cookie": {
+    "url": "https://api.github.com/repos/js-cookie/js-cookie",
+    "stargazers_count": 10148
+  },
+  "30DaysofSwift": {
+    "url": "https://api.github.com/repos/allenwong/30DaysofSwift",
+    "stargazers_count": 10147
+  },
+  "wp-calypso": {
+    "url": "https://api.github.com/repos/Automattic/wp-calypso",
+    "stargazers_count": 10141
+  },
+  "spaCy": {
+    "url": "https://api.github.com/repos/explosion/spaCy",
+    "stargazers_count": 10137
+  },
+  "Material": {
+    "url": "https://api.github.com/repos/CosmicMind/Material",
+    "stargazers_count": 10124
+  },
+  "webpack-howto": {
+    "url": "https://api.github.com/repos/petehunt/webpack-howto",
+    "stargazers_count": 10124
+  },
+  "redox": {
+    "url": "https://api.github.com/repos/redox-os/redox",
+    "stargazers_count": 10106
+  },
+  "minikube": {
+    "url": "https://api.github.com/repos/kubernetes/minikube",
+    "stargazers_count": 10103
+  },
+  "browser-sync": {
+    "url": "https://api.github.com/repos/BrowserSync/browser-sync",
+    "stargazers_count": 10097
+  },
+  "android-UniversalMusicPlayer": {
+    "url": "https://api.github.com/repos/googlesamples/android-UniversalMusicPlayer",
+    "stargazers_count": 10090
+  },
+  "stetho": {
+    "url": "https://api.github.com/repos/facebook/stetho",
+    "stargazers_count": 10085
+  },
+  "Signal-Android": {
+    "url": "https://api.github.com/repos/signalapp/Signal-Android",
+    "stargazers_count": 10081
+  },
+  "sinatra": {
+    "url": "https://api.github.com/repos/sinatra/sinatra",
+    "stargazers_count": 10081
+  },
+  "fish-shell": {
+    "url": "https://api.github.com/repos/fish-shell/fish-shell",
+    "stargazers_count": 10075
+  },
+  "revel": {
+    "url": "https://api.github.com/repos/revel/revel",
+    "stargazers_count": 10070
+  },
+  "celery": {
+    "url": "https://api.github.com/repos/celery/celery",
+    "stargazers_count": 10068
+  },
+  "obs-studio": {
+    "url": "https://api.github.com/repos/obsproject/obs-studio",
+    "stargazers_count": 10060
+  },
+  "Spoon-Knife": {
+    "url": "https://api.github.com/repos/octocat/Spoon-Knife",
+    "stargazers_count": 10049
+  },
+  "ReLaXed": {
+    "url": "https://api.github.com/repos/RelaxedJS/ReLaXed",
+    "stargazers_count": 10043
+  },
+  "ievms": {
+    "url": "https://api.github.com/repos/xdissent/ievms",
+    "stargazers_count": 10026
+  },
+  "jquery-mobile": {
+    "url": "https://api.github.com/repos/jquery/jquery-mobile",
+    "stargazers_count": 10023
+  },
+  "blueprint": {
+    "url": "https://api.github.com/repos/palantir/blueprint",
+    "stargazers_count": 10022
+  },
+  "v8": {
+    "url": "https://api.github.com/repos/v8/v8",
+    "stargazers_count": 10018
+  },
+  "svgo": {
+    "url": "https://api.github.com/repos/svg/svgo",
+    "stargazers_count": 10017
+  },
+  "node_redis": {
+    "url": "https://api.github.com/repos/NodeRedis/node_redis",
+    "stargazers_count": 10003
+  },
+  "co": {
+    "url": "https://api.github.com/repos/tj/co",
+    "stargazers_count": 9973
+  },
+  "SwitchyOmega": {
+    "url": "https://api.github.com/repos/FelisCatus/SwitchyOmega",
+    "stargazers_count": 9959
+  },
+  "phabricator": {
+    "url": "https://api.github.com/repos/phacility/phabricator",
+    "stargazers_count": 9950
+  },
+  "react-native-web": {
+    "url": "https://api.github.com/repos/necolas/react-native-web",
+    "stargazers_count": 9949
+  },
+  "karma": {
+    "url": "https://api.github.com/repos/karma-runner/karma",
+    "stargazers_count": 9947
+  },
+  "ScrollMagic": {
+    "url": "https://api.github.com/repos/janpaepke/ScrollMagic",
+    "stargazers_count": 9931
+  },
+  "libuv": {
+    "url": "https://api.github.com/repos/libuv/libuv",
+    "stargazers_count": 9930
+  },
+  "angular-starter": {
+    "url": "https://api.github.com/repos/gdi2290/angular-starter",
+    "stargazers_count": 9923
+  },
+  "rclone": {
+    "url": "https://api.github.com/repos/ncw/rclone",
+    "stargazers_count": 9919
+  },
+  "card": {
+    "url": "https://api.github.com/repos/jessepollak/card",
+    "stargazers_count": 9910
+  },
+  "redux-devtools": {
+    "url": "https://api.github.com/repos/reduxjs/redux-devtools",
+    "stargazers_count": 9897
+  },
+  "dotnet": {
+    "url": "https://api.github.com/repos/Microsoft/dotnet",
+    "stargazers_count": 9887
+  },
+  "cheatsheets-ai": {
+    "url": "https://api.github.com/repos/kailashahirwar/cheatsheets-ai",
+    "stargazers_count": 9883
+  },
+  "BaiduExporter": {
+    "url": "https://api.github.com/repos/acgotaku/BaiduExporter",
+    "stargazers_count": 9878
+  },
+  "dep": {
+    "url": "https://api.github.com/repos/golang/dep",
+    "stargazers_count": 9874
+  },
+  "headroom.js": {
+    "url": "https://api.github.com/repos/WickyNilliams/headroom.js",
+    "stargazers_count": 9873
+  },
+  "ViewPagerIndicator": {
+    "url": "https://api.github.com/repos/JakeWharton/ViewPagerIndicator",
+    "stargazers_count": 9851
+  },
+  "SwiftLint": {
+    "url": "https://api.github.com/repos/realm/SwiftLint",
+    "stargazers_count": 9842
+  },
+  "sanic": {
+    "url": "https://api.github.com/repos/channelcat/sanic",
+    "stargazers_count": 9839
+  },
+  "flatbuffers": {
+    "url": "https://api.github.com/repos/google/flatbuffers",
+    "stargazers_count": 9838
+  },
+  "spectacle": {
+    "url": "https://api.github.com/repos/eczarny/spectacle",
+    "stargazers_count": 9835
+  },
+  "material-components-web": {
+    "url": "https://api.github.com/repos/material-components/material-components-web",
+    "stargazers_count": 9834
+  },
+  "python-fire": {
+    "url": "https://api.github.com/repos/google/python-fire",
+    "stargazers_count": 9831
+  },
+  "PromiseKit": {
+    "url": "https://api.github.com/repos/mxcl/PromiseKit",
+    "stargazers_count": 9822
+  },
+  "raphael": {
+    "url": "https://api.github.com/repos/DmitryBaranovskiy/raphael",
+    "stargazers_count": 9816
+  },
+  "react-in-patterns": {
+    "url": "https://api.github.com/repos/krasimir/react-in-patterns",
+    "stargazers_count": 9813
+  },
+  "nodemailer": {
+    "url": "https://api.github.com/repos/nodemailer/nodemailer",
+    "stargazers_count": 9805
+  },
+  "hapi": {
+    "url": "https://api.github.com/repos/hapijs/hapi",
+    "stargazers_count": 9800
+  },
+  "istio": {
+    "url": "https://api.github.com/repos/istio/istio",
+    "stargazers_count": 9790
+  },
+  "Design-Patterns-In-Swift": {
+    "url": "https://api.github.com/repos/ochococo/Design-Patterns-In-Swift",
+    "stargazers_count": 9776
+  },
+  "kibana": {
+    "url": "https://api.github.com/repos/elastic/kibana",
+    "stargazers_count": 9770
+  },
+  "spellbook-of-modern-webdev": {
+    "url": "https://api.github.com/repos/dexteryy/spellbook-of-modern-webdev",
+    "stargazers_count": 9758
+  },
+  "bitbar": {
+    "url": "https://api.github.com/repos/matryer/bitbar",
+    "stargazers_count": 9754
+  },
+  "realm-java": {
+    "url": "https://api.github.com/repos/realm/realm-java",
+    "stargazers_count": 9754
+  },
+  "electron-react-boilerplate": {
+    "url": "https://api.github.com/repos/chentsulin/electron-react-boilerplate",
+    "stargazers_count": 9747
+  },
+  "gorm": {
+    "url": "https://api.github.com/repos/jinzhu/gorm",
+    "stargazers_count": 9734
+  },
+  "android-training-course-in-chinese": {
+    "url": "https://api.github.com/repos/kesenhoo/android-training-course-in-chinese",
+    "stargazers_count": 9728
+  },
+  "awesome-design": {
+    "url": "https://api.github.com/repos/gztchan/awesome-design",
+    "stargazers_count": 9724
+  },
+  "websocketd": {
+    "url": "https://api.github.com/repos/joewalnes/websocketd",
+    "stargazers_count": 9703
+  },
+  "AndroidViewAnimations": {
+    "url": "https://api.github.com/repos/daimajia/AndroidViewAnimations",
+    "stargazers_count": 9698
+  },
+  "picturefill": {
+    "url": "https://api.github.com/repos/scottjehl/picturefill",
+    "stargazers_count": 9695
+  },
+  "swoole-src": {
+    "url": "https://api.github.com/repos/swoole/swoole-src",
+    "stargazers_count": 9688
+  },
+  "flexbugs": {
+    "url": "https://api.github.com/repos/philipwalton/flexbugs",
+    "stargazers_count": 9688
+  },
+  "Carbon": {
+    "url": "https://api.github.com/repos/briannesbitt/Carbon",
+    "stargazers_count": 9681
+  },
+  "vim-fugitive": {
+    "url": "https://api.github.com/repos/tpope/vim-fugitive",
+    "stargazers_count": 9681
+  },
+  "matomo": {
+    "url": "https://api.github.com/repos/matomo-org/matomo",
+    "stargazers_count": 9679
+  },
+  "vault": {
+    "url": "https://api.github.com/repos/hashicorp/vault",
+    "stargazers_count": 9674
+  },
+  "java8-tutorial": {
+    "url": "https://api.github.com/repos/winterbe/java8-tutorial",
+    "stargazers_count": 9671
+  },
+  "luigi": {
+    "url": "https://api.github.com/repos/spotify/luigi",
+    "stargazers_count": 9669
+  },
+  "backbone-fundamentals": {
+    "url": "https://api.github.com/repos/addyosmani/backbone-fundamentals",
+    "stargazers_count": 9650
+  },
+  "roslyn": {
+    "url": "https://api.github.com/repos/dotnet/roslyn",
+    "stargazers_count": 9643
+  },
+  "ripgrep": {
+    "url": "https://api.github.com/repos/BurntSushi/ripgrep",
+    "stargazers_count": 9633
+  },
+  "chinese-poetry": {
+    "url": "https://api.github.com/repos/chinese-poetry/chinese-poetry",
+    "stargazers_count": 9633
+  },
+  "rough": {
+    "url": "https://api.github.com/repos/pshihn/rough",
+    "stargazers_count": 9620
+  },
+  "redash": {
+    "url": "https://api.github.com/repos/getredash/redash",
+    "stargazers_count": 9608
+  },
+  "LearningNotes": {
+    "url": "https://api.github.com/repos/francistao/LearningNotes",
+    "stargazers_count": 9606
+  },
+  "n": {
+    "url": "https://api.github.com/repos/tj/n",
+    "stargazers_count": 9604
+  },
+  "coreclr": {
+    "url": "https://api.github.com/repos/dotnet/coreclr",
+    "stargazers_count": 9602
+  },
+  "bazel": {
+    "url": "https://api.github.com/repos/bazelbuild/bazel",
+    "stargazers_count": 9579
+  },
+  "chinese-independent-developer": {
+    "url": "https://api.github.com/repos/1c7/chinese-independent-developer",
+    "stargazers_count": 9574
+  },
+  "logger": {
+    "url": "https://api.github.com/repos/orhanobut/logger",
+    "stargazers_count": 9572
+  },
+  "chalk": {
+    "url": "https://api.github.com/repos/chalk/chalk",
+    "stargazers_count": 9565
+  },
+  "paper.js": {
+    "url": "https://api.github.com/repos/paperjs/paper.js",
+    "stargazers_count": 9559
+  },
+  "mui": {
+    "url": "https://api.github.com/repos/dcloudio/mui",
+    "stargazers_count": 9553
+  },
+  "gfwlist": {
+    "url": "https://api.github.com/repos/gfwlist/gfwlist",
+    "stargazers_count": 9549
+  },
+  "NativeBase": {
+    "url": "https://api.github.com/repos/GeekyAnts/NativeBase",
+    "stargazers_count": 9548
+  },
+  "micro": {
+    "url": "https://api.github.com/repos/zyedidia/micro",
+    "stargazers_count": 9545
+  },
+  "octopress": {
+    "url": "https://api.github.com/repos/imathis/octopress",
+    "stargazers_count": 9541
+  },
+  "android-tech-frontier": {
+    "url": "https://api.github.com/repos/hehonghui/android-tech-frontier",
+    "stargazers_count": 9539
+  },
+  "prisma": {
+    "url": "https://api.github.com/repos/prismagraphql/prisma",
+    "stargazers_count": 9529
+  },
+  "lottie-react-native": {
+    "url": "https://api.github.com/repos/react-community/lottie-react-native",
+    "stargazers_count": 9491
+  },
+  "popper.js": {
+    "url": "https://api.github.com/repos/FezVrasta/popper.js",
+    "stargazers_count": 9490
+  },
+  "bytecode-viewer": {
+    "url": "https://api.github.com/repos/Konloch/bytecode-viewer",
+    "stargazers_count": 9481
+  },
+  "FLEX": {
+    "url": "https://api.github.com/repos/Flipboard/FLEX",
+    "stargazers_count": 9481
+  },
+  "MaterialDrawer": {
+    "url": "https://api.github.com/repos/mikepenz/MaterialDrawer",
+    "stargazers_count": 9470
+  },
+  "pomelo": {
+    "url": "https://api.github.com/repos/NetEase/pomelo",
+    "stargazers_count": 9467
+  },
+  "sage": {
+    "url": "https://api.github.com/repos/roots/sage",
+    "stargazers_count": 9465
+  },
+  "redux-thunk": {
+    "url": "https://api.github.com/repos/reduxjs/redux-thunk",
+    "stargazers_count": 9457
+  },
+  "recharts": {
+    "url": "https://api.github.com/repos/recharts/recharts",
+    "stargazers_count": 9452
+  },
+  "virtual-dom": {
+    "url": "https://api.github.com/repos/Matt-Esch/virtual-dom",
+    "stargazers_count": 9440
+  },
+  "cosmos": {
+    "url": "https://api.github.com/repos/OpenGenus/cosmos",
+    "stargazers_count": 9434
+  },
+  "Awesome-Linux-Software": {
+    "url": "https://api.github.com/repos/luongvo209/Awesome-Linux-Software",
+    "stargazers_count": 9427
+  },
+  "vue-devtools": {
+    "url": "https://api.github.com/repos/vuejs/vue-devtools",
+    "stargazers_count": 9424
+  },
+  "FizzBuzzEnterpriseEdition": {
+    "url": "https://api.github.com/repos/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition",
+    "stargazers_count": 9424
+  },
+  "feathers": {
+    "url": "https://api.github.com/repos/feathersjs/feathers",
+    "stargazers_count": 9421
+  },
+  "hacker101": {
+    "url": "https://api.github.com/repos/Hacker0x01/hacker101",
+    "stargazers_count": 9414
+  },
+  "deeplearning4j": {
+    "url": "https://api.github.com/repos/deeplearning4j/deeplearning4j",
+    "stargazers_count": 9402
+  },
+  "waypoints": {
+    "url": "https://api.github.com/repos/imakewebthings/waypoints",
+    "stargazers_count": 9396
+  },
+  "awesome-deep-learning": {
+    "url": "https://api.github.com/repos/ChristosChristofidis/awesome-deep-learning",
+    "stargazers_count": 9390
+  },
+  "gollum": {
+    "url": "https://api.github.com/repos/gollum/gollum",
+    "stargazers_count": 9383
+  },
+  "pi-hole": {
+    "url": "https://api.github.com/repos/pi-hole/pi-hole",
+    "stargazers_count": 9377
+  },
+  "homebridge": {
+    "url": "https://api.github.com/repos/nfarina/homebridge",
+    "stargazers_count": 9366
+  },
+  "nerd-fonts": {
+    "url": "https://api.github.com/repos/ryanoasis/nerd-fonts",
+    "stargazers_count": 9364
+  },
+  "uWebSockets": {
+    "url": "https://api.github.com/repos/uNetworking/uWebSockets",
+    "stargazers_count": 9361
+  },
+  "PNChart": {
+    "url": "https://api.github.com/repos/kevinzhow/PNChart",
+    "stargazers_count": 9360
+  },
+  "v2ray-core": {
+    "url": "https://api.github.com/repos/v2ray/v2ray-core",
+    "stargazers_count": 9357
+  },
+  "pix2code": {
+    "url": "https://api.github.com/repos/tonybeltramelli/pix2code",
+    "stargazers_count": 9349
+  },
+  "grav": {
+    "url": "https://api.github.com/repos/getgrav/grav",
+    "stargazers_count": 9349
+  },
+  "onepage-scroll": {
+    "url": "https://api.github.com/repos/peachananr/onepage-scroll",
+    "stargazers_count": 9331
+  },
+  "stylus": {
+    "url": "https://api.github.com/repos/stylus/stylus",
+    "stargazers_count": 9321
+  },
+  "koel": {
+    "url": "https://api.github.com/repos/phanan/koel",
+    "stargazers_count": 9317
+  },
+  "egg": {
+    "url": "https://api.github.com/repos/eggjs/egg",
+    "stargazers_count": 9315
+  },
+  "spree": {
+    "url": "https://api.github.com/repos/spree/spree",
+    "stargazers_count": 9300
+  },
+  "android-architecture-components": {
+    "url": "https://api.github.com/repos/googlesamples/android-architecture-components",
+    "stargazers_count": 9291
+  },
+  "algo": {
+    "url": "https://api.github.com/repos/trailofbits/algo",
+    "stargazers_count": 9290
+  },
+  "johnny-five": {
+    "url": "https://api.github.com/repos/rwaldron/johnny-five",
+    "stargazers_count": 9288
+  },
+  "PocketHub": {
+    "url": "https://api.github.com/repos/pockethub/PocketHub",
+    "stargazers_count": 9283
+  },
+  "vimium": {
+    "url": "https://api.github.com/repos/philc/vimium",
+    "stargazers_count": 9270
+  },
+  "react-bits": {
+    "url": "https://api.github.com/repos/vasanthk/react-bits",
+    "stargazers_count": 9260
+  },
+  "syntastic": {
+    "url": "https://api.github.com/repos/vim-syntastic/syntastic",
+    "stargazers_count": 9251
+  },
+  "rubocop": {
+    "url": "https://api.github.com/repos/rubocop-hq/rubocop",
+    "stargazers_count": 9247
+  },
+  "ws": {
+    "url": "https://api.github.com/repos/websockets/ws",
+    "stargazers_count": 9235
+  },
+  "gitea": {
+    "url": "https://api.github.com/repos/go-gitea/gitea",
+    "stargazers_count": 9224
+  },
+  "English-level-up-tips-for-Chinese": {
+    "url": "https://api.github.com/repos/byoungd/English-level-up-tips-for-Chinese",
+    "stargazers_count": 9223
+  },
+  "android-Ultra-Pull-To-Refresh": {
+    "url": "https://api.github.com/repos/liaohuqiu/android-Ultra-Pull-To-Refresh",
+    "stargazers_count": 9220
+  },
+  "react-hot-loader": {
+    "url": "https://api.github.com/repos/gaearon/react-hot-loader",
+    "stargazers_count": 9219
+  },
+  "convnetjs": {
+    "url": "https://api.github.com/repos/karpathy/convnetjs",
+    "stargazers_count": 9219
+  },
+  "logstash": {
+    "url": "https://api.github.com/repos/elastic/logstash",
+    "stargazers_count": 9213
+  },
+  "WebFundamentals": {
+    "url": "https://api.github.com/repos/google/WebFundamentals",
+    "stargazers_count": 9198
+  },
+  "prezto": {
+    "url": "https://api.github.com/repos/sorin-ionescu/prezto",
+    "stargazers_count": 9197
+  },
+  "kap": {
+    "url": "https://api.github.com/repos/wulkano/kap",
+    "stargazers_count": 9192
+  },
+  "rancher": {
+    "url": "https://api.github.com/repos/rancher/rancher",
+    "stargazers_count": 9184
+  },
+  "tensorflow-zh": {
+    "url": "https://api.github.com/repos/jikexueyuanwiki/tensorflow-zh",
+    "stargazers_count": 9176
+  },
+  "the-way-to-go_ZH_CN": {
+    "url": "https://api.github.com/repos/Unknwon/the-way-to-go_ZH_CN",
+    "stargazers_count": 9174
+  },
+  "Moya": {
+    "url": "https://api.github.com/repos/Moya/Moya",
+    "stargazers_count": 9174
+  },
+  "sqlitebrowser": {
+    "url": "https://api.github.com/repos/sqlitebrowser/sqlitebrowser",
+    "stargazers_count": 9173
+  },
+  "animated-tab-bar": {
+    "url": "https://api.github.com/repos/Ramotion/animated-tab-bar",
+    "stargazers_count": 9162
+  },
+  "powerline": {
+    "url": "https://api.github.com/repos/powerline/powerline",
+    "stargazers_count": 9161
+  },
+  "goreplay": {
+    "url": "https://api.github.com/repos/buger/goreplay",
+    "stargazers_count": 9157
+  },
+  "systemjs": {
+    "url": "https://api.github.com/repos/systemjs/systemjs",
+    "stargazers_count": 9157
+  },
+  "list.js": {
+    "url": "https://api.github.com/repos/javve/list.js",
+    "stargazers_count": 9149
+  },
+  "iTerm2-Color-Schemes": {
+    "url": "https://api.github.com/repos/mbadolato/iTerm2-Color-Schemes",
+    "stargazers_count": 9128
+  },
+  "Slim": {
+    "url": "https://api.github.com/repos/slimphp/Slim",
+    "stargazers_count": 9115
+  },
+  "grumpy": {
+    "url": "https://api.github.com/repos/google/grumpy",
+    "stargazers_count": 9113
+  },
+  "spin.js": {
+    "url": "https://api.github.com/repos/fgnass/spin.js",
+    "stargazers_count": 9104
+  },
+  "zipkin": {
+    "url": "https://api.github.com/repos/openzipkin/zipkin",
+    "stargazers_count": 9104
+  },
+  "react-loadable": {
+    "url": "https://api.github.com/repos/jamiebuilds/react-loadable",
+    "stargazers_count": 9103
+  },
+  "isotope": {
+    "url": "https://api.github.com/repos/metafizzy/isotope",
+    "stargazers_count": 9100
+  },
+  "primitive": {
+    "url": "https://api.github.com/repos/fogleman/primitive",
+    "stargazers_count": 9092
+  },
+  "blur-admin": {
+    "url": "https://api.github.com/repos/akveo/blur-admin",
+    "stargazers_count": 9091
+  },
+  "graphql": {
+    "url": "https://api.github.com/repos/facebook/graphql",
+    "stargazers_count": 9089
+  },
+  "cphalcon": {
+    "url": "https://api.github.com/repos/phalcon/cphalcon",
+    "stargazers_count": 9088
+  },
+  "design": {
+    "url": "https://api.github.com/repos/WebAssembly/design",
+    "stargazers_count": 9087
+  },
+  "kafka": {
+    "url": "https://api.github.com/repos/apache/kafka",
+    "stargazers_count": 9085
+  },
+  "storm": {
+    "url": "https://api.github.com/repos/nathanmarz/storm",
+    "stargazers_count": 9079
+  },
+  "salt": {
+    "url": "https://api.github.com/repos/saltstack/salt",
+    "stargazers_count": 9076
+  },
+  "Dapper": {
+    "url": "https://api.github.com/repos/StackExchange/Dapper",
+    "stargazers_count": 9073
+  },
+  "zxcvbn": {
+    "url": "https://api.github.com/repos/dropbox/zxcvbn",
+    "stargazers_count": 9068
+  },
+  "UITableView-FDTemplateLayoutCell": {
+    "url": "https://api.github.com/repos/forkingdog/UITableView-FDTemplateLayoutCell",
+    "stargazers_count": 9068
+  },
+  "html5shiv": {
+    "url": "https://api.github.com/repos/aFarkas/html5shiv",
+    "stargazers_count": 9040
+  },
+  "kitematic": {
+    "url": "https://api.github.com/repos/docker/kitematic",
+    "stargazers_count": 9035
+  },
+  "knockout": {
+    "url": "https://api.github.com/repos/knockout/knockout",
+    "stargazers_count": 9034
+  },
+  "yeoman": {
+    "url": "https://api.github.com/repos/yeoman/yeoman",
+    "stargazers_count": 9022
+  },
+  "oni": {
+    "url": "https://api.github.com/repos/onivim/oni",
+    "stargazers_count": 9016
+  },
+  "node-http-proxy": {
+    "url": "https://api.github.com/repos/nodejitsu/node-http-proxy",
+    "stargazers_count": 9014
+  },
+  "curl": {
+    "url": "https://api.github.com/repos/curl/curl",
+    "stargazers_count": 9010
+  },
+  "swift-evolution": {
+    "url": "https://api.github.com/repos/apple/swift-evolution",
+    "stargazers_count": 9007
+  },
+  "NodeBB": {
+    "url": "https://api.github.com/repos/NodeBB/NodeBB",
+    "stargazers_count": 9001
+  },
+  "sshuttle": {
+    "url": "https://api.github.com/repos/apenwarr/sshuttle",
+    "stargazers_count": 8999
+  },
+  "paperclip": {
+    "url": "https://api.github.com/repos/thoughtbot/paperclip",
+    "stargazers_count": 8987
+  },
+  "react-dnd": {
+    "url": "https://api.github.com/repos/react-dnd/react-dnd",
+    "stargazers_count": 8983
+  },
+  "awesome-ruby": {
+    "url": "https://api.github.com/repos/markets/awesome-ruby",
+    "stargazers_count": 8983
+  },
+  "alfred-workflows": {
+    "url": "https://api.github.com/repos/zenorocha/alfred-workflows",
+    "stargazers_count": 8981
+  },
+  "OpenEmu": {
+    "url": "https://api.github.com/repos/OpenEmu/OpenEmu",
+    "stargazers_count": 8979
+  },
+  "lets-chat": {
+    "url": "https://api.github.com/repos/sdelements/lets-chat",
+    "stargazers_count": 8972
+  },
+  "react-native-vector-icons": {
+    "url": "https://api.github.com/repos/oblador/react-native-vector-icons",
+    "stargazers_count": 8968
+  },
+  "docker_practice": {
+    "url": "https://api.github.com/repos/yeasy/docker_practice",
+    "stargazers_count": 8964
+  },
+  "mousetrap": {
+    "url": "https://api.github.com/repos/ccampbell/mousetrap",
+    "stargazers_count": 8952
+  },
+  "UglifyJS2": {
+    "url": "https://api.github.com/repos/mishoo/UglifyJS2",
+    "stargazers_count": 8943
+  },
+  "cool-retro-term": {
+    "url": "https://api.github.com/repos/Swordfish90/cool-retro-term",
+    "stargazers_count": 8941
+  },
+  "sharp": {
+    "url": "https://api.github.com/repos/lovell/sharp",
+    "stargazers_count": 8925
+  },
+  "Android-ObservableScrollView": {
+    "url": "https://api.github.com/repos/ksoichiro/Android-ObservableScrollView",
+    "stargazers_count": 8918
+  },
+  "colour-schemes": {
+    "url": "https://api.github.com/repos/daylerees/colour-schemes",
+    "stargazers_count": 8916
+  },
+  "falcor": {
+    "url": "https://api.github.com/repos/Netflix/falcor",
+    "stargazers_count": 8913
+  },
+  "favicon-cheat-sheet": {
+    "url": "https://api.github.com/repos/audreyr/favicon-cheat-sheet",
+    "stargazers_count": 8908
+  },
+  "jquery-validation": {
+    "url": "https://api.github.com/repos/jquery-validation/jquery-validation",
+    "stargazers_count": 8888
+  },
+  "swift-style-guide": {
+    "url": "https://api.github.com/repos/raywenderlich/swift-style-guide",
+    "stargazers_count": 8888
+  },
+  "RAP": {
+    "url": "https://api.github.com/repos/thx/RAP",
+    "stargazers_count": 8879
+  }
+}

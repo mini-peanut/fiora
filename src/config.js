@@ -50,3 +50,26 @@ export const ERROR_MAP = {
   2005: 'ext参数不对',
   2006: '不支持的voice'
 }
+
+const GITHUB_API = {
+  search: {
+    repositories: `https://api.github.com/search/repositories`
+  },
+  rateLimit: `https://api.github.com/rate_limit`
+}
+
+const HEADERS = {
+  'User-Agent': 'fiora'
+}
+
+export const authParams = 'client_id=ff5a949b41bd7812ccca&client_secret=e7c73b85d945e1825a4820168ba97420d518d0a7'
+
+export const getRepositoriesOptions = (page, perPage, minStars) => ({
+  url: `${GITHUB_API.search.repositories}?q=stars:>=${0}&sort=stars&page=${page}&per_page=${perPage}&${authParams}`,
+  headers: HEADERS
+})
+
+export const getRateLimitOptions = () => ({
+  url: `https://api.github.com/rate_limit?${authParams}`,
+  headers: HEADERS
+})
